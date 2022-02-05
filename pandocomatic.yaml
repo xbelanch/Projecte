@@ -1,0 +1,23 @@
+# ========================
+# Pandocomatic config file
+# ========================
+
+settings:
+  recursive: false
+  follow-links: false
+  skip: ['.*']
+  data-dir: ../Core/data-dir
+
+templates:
+################################
+  pdf:
+    pandoc:
+      from: markdown+table_captions+grid_tables+multiline_tables
+      to: pdf
+      pdf_engine: xelatex
+      standalone: true
+      mathjax: true
+      toc: false
+      listings: true
+      template: tpl/pdf/projecte.tex
+      filter: ['pandoc-plot']

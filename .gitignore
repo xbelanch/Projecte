@@ -1,0 +1,5 @@
+*.log
+input.md
+output.pdf
+export/
+plots/

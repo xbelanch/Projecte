@@ -1,29 +1,27 @@
 ---
-title: Proposta de projecte IOC 2022
-subtitle: Proposta per als estudis de Batxillerat
-autoria: Xavier Belanche Alonso
-estudis: Batxillerat
-curs: 2021-22
-versio: 1.0
-data: 2/2/2022
+title: Projecte IOC 2022
+subtitle: Especialitat de Dibuix
+author: Xavier Belanche Alonso
+date: 15/02/2002
 lang: ca
+mainfont: Helvetica
 documentclass: extarticle
 fontsize: 11pt
+linestretch: 1.5
 papersize: a4
-geometry: left=2.5cm,right=6cm,top=2cm,bottom=4cm
 urlcolor: blue
 toc: true
 pandocomatic_:
   use-template: pdf
 ...
 
+<!--
 https://www.academia.edu/44259087/La_dimensi%C3%B3_digital_en_situacions_escolars_de_confinament_i_postconfinament
 
-<!--
 https://www.uoc.edu/opencms_portal2/opencms/CA/coronavirus/experts/estudiar-online/list.html
 -->
 
-Aquest document ha estat bellament editat amb el llenguatge de marques *Markdown* i exportat a LaTeX gràcies a la navalla suïssa de la conversió de formats *Pandoc*, el cos de lletra és d'11pts, la tipografia és Helvetica, l'interlineat és de 1.5, les figures i diagrames han estat definides amb el llenguatge [DOT](https://es.wikipedia.org/wiki/DOT), processades amb el conjunt d'eines de visualització infogràfiques [Graphviz](https://graphviz.org/) i, finalment, incloses en el document amb al filtre *[pandoc-plot](https://github.com/LaurentRDC/pandoc-plot)*. Podeu consultar el codi font de tot el document a:
+Aquest document ha estat bellament editat amb el llenguatge de marques [Markdown](https://www.markdownguide.org/) i exportat a \LaTeX\ gràcies a la navalla suïssa de la conversió de formats [Pandoc](https://pandoc.org/), el cos de lletra és d'11pts, la tipografia és Helvetica, l'interlineat és de 1.5, les figures i diagrames han estat definides amb el llenguatge [DOT](https://es.wikipedia.org/wiki/DOT), processades amb el conjunt d'eines de visualització infogràfiques [Graphviz](https://graphviz.org/) i, finalment, incloses en el document amb al filtre *[pandoc-plot](https://github.com/LaurentRDC/pandoc-plot)*. Podeu consultar el codi font i històric del document a: [https://github.com/xbelanch/Projecte-IOC](https://github.com/xbelanch/Projecte-IOC)
 
 # Motivació i interessos
 
@@ -209,7 +207,7 @@ Matèria específica que, en el context de la presencial, té un elevat grau de 
 
 # Proposta de projecte
 
-Com definir un projecte davant dels reptes que es deriven de les dues grans qüestions anteriors? Penso que la **concreció de tres eixos d'actuacions** poden ajudar a representar un impacte significatiu en la millora de l'experiència d'aprenentatge dels estudiants davant del repte que els hi comporta *estudiar davant d'una pantalla*[^Studying on a screen] les matèries de la modalitat d'Arts del Batxillerat de l'IOC a dia d'avui:
+Com definir un projecte davant dels reptes que es deriven de les dues grans qüestions anteriors? Penso que la **concreció de tres eixos d'actuacions** poden ajudar a representar un impacte significatiu en la millora de l'experiència d'aprenentatge dels estudiants davant del repte que els hi comporta *estudiar davant d'una pantalla*[^Studying-on-a-screen] les matèries de la modalitat d'Arts del Batxillerat de l'IOC a dia d'avui:
 
 * Eix de disseny i publicació dels recursos d'aprenentatge.
 * Eix de comunicació i seguiment de l'alumnat.
@@ -229,11 +227,31 @@ Com definir un projecte davant dels reptes que es deriven de les dues grans qüe
 
 End -->
 
-[^Studying on a screen]: Recomano la lectura de la pàgina [Studying on a screen](https://help.open.ac.uk/studying-on-a-screen) del [Help Center](https://help.open.ac.uk/) de l'Open University.
+[^Studying-on-a-screen]: Recomano la lectura de la pàgina [Studying on a screen](https://help.open.ac.uk/studying-on-a-screen) del [Help Center](https://help.open.ac.uk/) de l'Open University.
 
-## Eix disseny dels recursos d'aprenentatge
+## Eix disseny i publicació dels materials i activitats d'aprenentatge
 
-Segons el PEC
+Segons el PEC de l, "l’ús de material d’estudi divers garanteix tres funcions: construcció del coneixement, exercitació dels sabers i mobilització dels sabers. Aquest material ha evolucionat des del material en PDF fins al material integrat al format Moodle (llibres Moodle, lliçons) juntament amb altres canals diversificats de presentació de la informació com l’audiovisual"[^pec-material-estudi-0].
+
+Els materials d'estudi, llavors, són un dels elements clau del disseny d'aula de l'IOC. El cos d'aquest materials d'estudi o, millor dit, *recursos d'aprenentatge* no només han de donar resposta a l'exigència dels continguts del currículum de les matèries sinó també, en el cas que ens afecta, els formats amb els que els presentem.
+
+Si bé el PEC de l'IOC afirma com a procés *evolutiu* el pas del material PDF a "format Moodle" (sic), és a dir, en llibre de Moodle o Lliçons (amb la integració o inclusió lògica de recursos audiovisuals com diapositives, vídeos o interaccions H5P), el cert és que aquesta mirada es limita únicament a accentuar l'EVA de l'IOC (Moodle) com a espai estratègic de publicació dels materials d'estudi de les aules prescindint de qüestions que haurien d'estar per davant de formulació de com haurien de ser els materials d'estudi en un actual escenari d'estudis a Internet:
+
+* Els entorns virtuals d'aprenentatge, com és el cas del Moodle de l'IOC, són espais focalitzats en la pràctica de l'ensenyament i aprenentatge acadèmic a Internet, no entorns especialitzats de publicació ni tampoc gestors documentals. Aquesta afirmació resulta si bé més evident si comparem el nombre i tipologia de recursos i activitats disponibles (fòrums, tasques, wikis, qüestionaris, tallers, enquestes, agrupacions...) en comparació amb la de recursos (etiqueta, pàgina web, llibre i fitxers).
+* Un escenari on els materials d'estudi (llibres de Moodle o Lliçons) acabin forman part de manera indissociable de l'aula contradiu un dels principis pedagògics de la missió de l'IOC, és a dir, la *flexibilitat*[^pec-material-estudi-1]. Incrementar la flexibilitat i les opcions personals dels estudiants en la seva autonomia de pràctica educativa significa proporcionar *no només uns materials d'estudi de qualitat sinó garantir , en la mesura del possible, alternatives de format perquè els estudiants els incorporin als seu hàbitat i hàbits d'estudi*. Cal que els estudiants gaudeixen sempre de la portabilitat de la informació i, per en conseqüència, cal minimitzar possibles escenaris de limitació de connectivitat (estudiants amb problemes de connectivitat o manca de connectivitat regular; estudiants de presons i altres contextos de privacitat parcial de la llibertat de moviment personal i accés al Campus; estudiants amb dificultats de visió/lectura en pantalla...).
+* No tots els materials d'estudi són susceptibles de ser reemplaçats per formats alternatius, però sí proporcionar un recurs complementari. Per exemple, els vídeos, a banda de proporcionar els subtítols en català, cal proporcionar la transcripció del contingut.
+* És clau tenir present que no tots els estudiants disposen de dispositius de lectura de pantalla òptims i, per tant, hi ha una exigència i responsabilitat per part del professorat de l'IOC de *pensar en un disseny de materials d'estudi que siguin òptims per al context del dispositiu de lectura*. El format dels  materials d'estudi han d'adaptar-se a l'exigència o realitat de l'estudiant perquè aquell sigui lliure a decidir quin d'aquests és el més òptim segons les seves necessitats.
+* Confinar els materials d'estudi a la plataforma d'EA és, senzillament, un error. Si no es possible plantejar un accés públic i transparent dels mateixos (i no em refereixo dins d'una exportació de l'aula Moodle), llavors calen actuacions que assegurin la portabilitat dels recursos d'estudi de les aules.
+
+D'altra banda, una part significativa del disseny dels materials d'estudi de les aules que imparteixo l'IOC estan inspirades en projectes públics com [Smart History](https://smarthistory.org/),  [Khan Academy](https://www.khanacademy.org/) o projectes personals com [The Art Assignment](https://www.youtube.com/user/theartassignment), però també seguir l'actualitat de les propostes dels espais expositius locals (MACBA, CCCB, MNAC, Fundació Miró...) com internacionals (Tate Modern, MET, MoMA...). Totes elles han de servir d'ajuda no únicament en el desenvolupament dels materials d'estudi sinó també en l'oportunitat de definir la presentació i estructura dels materials d'estudi com a *curació de continguts* que han de satisfer, per una banda, l'exigència del currículum com, sobretot, oferir els estudiants uns continguts d'actualitat.
+
+Aquesta *curació* dels recursos d'estudi han de combinar els de creació pròpia amb recursos de tercers que gaudeixen de llicències que permetin el seu ús. Sobre això, sóc del parer del *reciclatge* dels recursos, especialment aquells que, per la seva qualitat, com són els recursos de vídeo, és preferible estratègies com la creació de subtítols i transcripció en català. Aquestes pràctica no només permet els estudiants a accedir-hi a la informació en la llengua original sinó també de qualitat.
+
+Finalment, la *curació* dona protagonisme en com ha de ser el disseny seqüencial dels materials d'estudi, en particular en l'accent de la narrativa del conjunt de la seqüència. Aquest és un punt clau pel que significa paliar la part d'estudiar *a distància*
+
+[^pec-material-estudi-0]: *Projecte educatiu de centre de l'IOC*, (p. 10).
+[^pec-material-estudi-1]: ibíd, (p. 7).
+
 Avançar en la definició d'un disseny de publicació en obert dels recursos d'aprenentatge de les matèries de la modalitat d'arts del Batxillerat.
 
 https://www.open.ac.uk/equality-diversity/
@@ -254,11 +272,41 @@ Avaluació de l'estudiant en sintonia amb el plantejament anterior que, en defin
 "Aquest plantejament suposa repensar l’avaluació dels aprenentatges de l’alumnat a través de dues estratègies. La primera és priorit-zar l’avaluació formadora a través d’un
  feedback de qualitat que focalitzi en allò que l’alumne ha fet bé i de quina manera pot millorar. El feedback ha de ser clar, regular i a temps. Sovint és individual, però també es poden preveure sessions grupals i hem de considerar les eines de feedback integrades en la majoria de plataformes que usen els centres com Google Classroom o Moodle. La segona estratègia és basar l’avaluació en la creació, és a dir, en les produccions de l’alumnat, tot focalitzant més en el procés de creació que no pas en el producte final."[^serarols]
 
-## Cronograma/Calendari
+## Objectius
+
+El desenvolupament conceptual d'aquests tres eixos d'actuacions definiran els següents objectius a concretar en un calendari de quatre anys:
+
+1. Proporcionar un ventall ample dels formats dels materials d'estudi de l'aula, és a dir:
+   * Format web optimitzada per a la lectura amb mòbil.
+   * Format PDF per a situacions de manca de connectivitat i, per tant, un aprenentatge *offline*. Han d'estar optimitzats no únicament per a la seva impressió sinó també la maquetació, disseny i
+   * eBooks o format ePub (*Electronic Publication*) per als e-readers i, per tant, per aquella activitat d'aprenentatge *offline*.
+   * Subtítols i transcripció de vídeos.
+   * Format [DAISY](https://daisy.org/) per assegurar l'accessibilitat de qualsevol publicació digital.
+   * Format Word o LibreOffice: aquests formats editables permeten no només l'estudi *offline* sinó també la possibilitat d'anotacions per part de l'estudiant, així com també per aquells dispositius de lectura com el [JAWS screen reader](https://www.freedomscientific.com/products/software/jaws/). Aquests dos formats també permeten als estudiants la personalització del cos de lletra, colors i interlineats amb l'objectiu que els hi faciliti la lectura del cos del document.
+   * *Podcast* dels materials d'estudi que, a banda de la seva portabilitat, representin una alternativa d'estudi per aquells estudiants amb dificultats d'aprenentatge com la dislexia o problemes de visió parcial o total.
+2. Curació de recursos i activitats:
+
+### Cronograma/Calendari
 
 https://elbauldelprogramador.com/crear-diagrama-de-gantt-en-latex/
 
-## Exemplificació activitat d'aprenentatge
+
+# Exemplificació d'activitat d'aprenentatge de la matèria Fonaments de les arts I: *Tots els barrocs del món*
+
+En la modalitat d’arts, els alumnes han de cursar al llarg dels dos cursos de Batxillerat la matèria comuna d'opció Fonaments de les arts I i II, que inclou una bona part dels continguts d’Història de l’art (Decret 142/2008), amb una mirada més àmplia amb altres manifestacions artístiques i culturals (arts escèniques, música, disseny i mitjans audiovisuals). El currículum de primer curs arriba fins al segle XVIII i el de segon curs inclou els segles XIX i XX.
+
+https://fonamentsdelesarts.wordpress.com/portfolio/organitzacio-materia/
+
+Segons el currículum procediments i actituds que es relacionen amb tres competències fonamentals:
+
+* la competència en la dimensió temporal de les manifestacions artístiques;
+* la competència en l'observació, anàlisi i interpretació de les produccions artístiques,
+* i la competència en el desenvolupament de la sensibilitat estètica.
+
+
+
+<!--
+##
 
 // @RECORDA:
 
@@ -267,10 +315,12 @@ https://elbauldelprogramador.com/crear-diagrama-de-gantt-en-latex/
 * estratègies comunicatives i seguiment de l'alumnat
 * avaluació dels aprenentatges
 * exemplificació d'algunes activitats d'aprenentatge relacionades amb l'especialitat a la qual s'opta.
+-->
 
 <!-- * Estratègies per a un disseny de l'aula on les activitats representin el centre de gravetat de l'adquisició de competències... -->
 <!-- * Mesures alternatives que permetin que aquells estudiants (NESE, estudiants adults amb dificultats de connectivitat, adults amb dificultats d'agenda per raons professionals o personals, esportites d'èlit, estudiants de dansa...) no els hi representi un greuge comparatiu. -->
 
+<!--
 # Referències
 
 * What’s the Difference Between Online Learning and Distance Learning? https://www.aeseducation.com/blog/online-learning-vs-distance-learning
@@ -334,6 +384,8 @@ i d'altres eines tecnològiques que facilitin l'aprenentatge i la comunicació.
 * Promoure, dinamitzar i estimular la participació de l'alumnat en les activitats proposades i la comunicació
 entre els alumnes.
 * Participar en l'elaboració, la revisió, l'actualització i l'avaluació dels materials didàctics.
+-->
+
 
 <!-- ```{.graphviz dpi=300 format=PNG caption="Esquema actuacions IOC"} -->
 <!-- digraph mygraph { -->
@@ -347,6 +399,6 @@ entre els alumnes.
 <!--   1->"Comunicació"; -->
 <!--   1->"Disseny d'activitats"; -->
 <!-- } -->
-```
+<!--```-->
 
 <!-- o, des de projectes pilot com el de l'[Educació Híbrida](https://projectes.xtec.cat/transformacioenxarxa/projecte-pilot-deducacio-hibrida/) relacionats amb l'ideari de la Fundació Bofill[^5]. -->

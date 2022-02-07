@@ -9,6 +9,7 @@ documentclass: extarticle
 fontsize: 11pt
 linestretch: 1.5
 papersize: a4
+geometry: left=3.5cm,right=3cm,top=2cm,bottom=3cm
 urlcolor: blue
 toc: true
 pandocomatic_:
@@ -32,7 +33,7 @@ Fet d'això són els diferents projectes de caràcter transversal que he pres pa
 
 ##  Projectes a l'IOC (2008 - 2021)
 
-Una de les estratègies efectives d'apoderament com a propi el centre de treball és la participació i col·laboració en la realització i consecució de projectes de caràcter transversal. Per la meva part, complementant la docència com a responsable de matèries de l'especialitat de Dibuix (Fonaments de les arts I, Dibuix artístic, Volum, Tècniques d'expressió graficoplàstica), he contribuït activament en l'assoliment de diferents projectes transversals de centre (amb més o menys impacte) que enumero a continuació:
+Una de les estratègies efectives d'apoderament com a propi el centre de treball és la participació i col·laboració en la realització i consecució de projectes de caràcter transversal. Per la meva part, complementant la docència com a professor responsable del disseny dels recursos i activitats de les matèries de l'especialitat de Dibuix (**Fonaments de les arts I**, **Dibuix artístic**, **Volum**, **Tècniques d'expressió graficoplàstica**), he contribuït activament en l'assoliment de projectes transversals de centre que enumero a continuació:
 
 * De l'any 2009 fins al 2011 vaig coliderar el **procés de transició de la creació i publicació de materials d'estudi de l'FP**: del servei d'una empresa associada a la producció de materials de la UOC[^eurekamedia] a la d'un entorn wiki de creació pròpia[^wiki]. Aquest colideratge o treball horitzontal entre els diferents actors implicats (equip directiu, professorat, enginyers informàtics, editors, grafistes) va afavorir la consolidació d'una infrestructura interna de l'IOC ([https://dokuwiki.ioc.cat/doku.php](https://dokuwiki.ioc.cat/doku.php)) que és vigent i operativa a dia d'avui.
 * De l'any 2011 fins al 2018 vaig participar en el desenvolupament del projecte **miniops**[^miniops], cursos oberts, interdisciplinaris i de curta durada (15 a 20 hores) disponibles per a la comunitat educativa, però estratègics en els estudis del GES (permeten acreditar mòduls optatius), tant com a ideòleg com a responsable del disseny web. Des del 2019 fins el dia d'avui, col·laboro en el disseny i desenvolupament tècnic del miniop *Llegir en xarxa*.
@@ -177,28 +178,6 @@ Dins de l'oferta educativa de l'IOC, el Batxillerat a l'IOC, antic ICESD, presen
 * Concreció i desenvolupament del currículum de batxillerat (Documents per a l'organització i la gestió dels centres)
 * ORDRE EDU/156/2020, de 18 de setembre, per la qual se suprimeixen i es creen diversos preus públics i els imports de determinats ensenyaments, cursos i formacions impartits a distància per l'Institut Obert de Catalunya (DOGC núm. 8230, de 22.9.2020.
 
-### Experiències d'ensenyament aprenentatge de l'especialitat de Dibuix a l'IOC
-
-Com a docent de l'especialitat de Dibuix, he participat en la definició i disseny de les següents aules, totes elles vinculades a la modalitat d'Arts de Batxillerat de l'IOC:
-
-* Fonaments de les arts
-* Dibuix artístic
-* Volum
-* Tècniques d'expressió graficoplàstica
-
-Aquestes aules han experimentat diferents canvis de disseny metodologic al llarg dels diferents anys acadèmics
-
-#### Fonaments de les arts (2016-)
-
-#### Dibuix artístic (2013-2016)
-
-#### Volum (2008-)
-
-* Tot i que els estudiants experimenten amb la pràctica escultòrica des de la vessant tradicional[^planella], es va incorporar conceptes associats a la virtualitat del volum i, per tant, a aquelles pràctiques relatives a l'EA del modelatge tridimensionals amb programari especialitzat[^blender].
-* Es proposa l'aprenentatge de la noció de Volume en base a conceptes
-
-[^planella]: Destacar com a referència la proposta de disseny d'aula de [Volum](http://www.xtec.cat/~mplanel4/volum/volum.htm) presencial de [Montserrat Planella][https://montserratplanella.wordpress.com/about/].
-
 En els estudis del **Batxillerat artístic de l'IOC**, aquesta doble actuació té un alt valor en quant a que, a diferència de l'oferta presencial d'aquesta modalitat fa que, per una banda, el nombre d'estudiants visitants ja sigui el majoritari i, d'altra banda, les característiques pròpies del currículum poden ser desenvolupades en consonància amb l'assoliment de les competències digitals dels estudiants amb propostes on la cultura d'Interent siguin predominants en el disseny de les activitats.
 
 #### Tècniques d'expressió graficoplàstica (2008-2020)
@@ -209,29 +188,15 @@ Matèria específica que, en el context de la presencial, té un elevat grau de 
 
 Com definir un projecte davant dels reptes que es deriven de les dues grans qüestions anteriors? Penso que la **concreció de tres eixos d'actuacions** poden ajudar a representar un impacte significatiu en la millora de l'experiència d'aprenentatge dels estudiants davant del repte que els hi comporta *estudiar davant d'una pantalla*[^Studying-on-a-screen] les matèries de la modalitat d'Arts del Batxillerat de l'IOC a dia d'avui:
 
-* Eix de disseny i publicació dels recursos d'aprenentatge.
-* Eix de comunicació i seguiment de l'alumnat.
-* Eix d'avaluació i seguiment de l'estudiant.
-
-<!-- Aquesta part ha d'anar directament a la proposta de projecte
-
-* Cal interpel·lar l'estudiant directament perquè aquest trobi sentit a les propostes d'EA de l'aula virtual. Cal una tasca de *captatio*, sigui a través de la creació de vídeos
-* Crear complicitat o ponts amb l'estudiant a través de compartir la nostra mirada o reflexió sobre allò que els hi demanem a la proposta didàctica.
-* Activitats d'actualitat i crear un espai temporal o de moment compartit, per contrarestar la "distància".
-* A l'ensenyament a distància és bastant més complicat treballar en grup o de manera col·laborativa que a la presencial. La proposta és més al final que no de suma o durant el procés.
-* A l'ensenyament a distància demana més individualització de l'aprenentatge.
-* Activitats plantejades com a reptes: "L'estil artístic del barroc encara hi és present avui dia?"
-* Mostrar-nos com a docents com també donar-los la paraula, escoltar-los.
-* Explicitar la nostra tasca docent (dins de la formalitat). Justificar els objectius d'aprenentatge. (*Captatio*). Ella ho proposa a través d'un àudio, vídeo o text escrit.
-* Intentar buscar propostes didàctiques que interpel·lin directament l'estudiant, fins i tot a un nivell personal.
-
-End -->
+* Eix de disseny dels recursos i activitats d'aprenentatge.
+* Eix d'estratègies de comunicació síncrona.
+* Eix d'avaluació i seguiment.
 
 [^Studying-on-a-screen]: Recomano la lectura de la pàgina [Studying on a screen](https://help.open.ac.uk/studying-on-a-screen) del [Help Center](https://help.open.ac.uk/) de l'Open University.
 
-## Eix disseny i publicació dels materials i activitats d'aprenentatge
+## Eix de disseny dels recursos i activitats d'aprenentatge
 
-Segons el PEC de l, "l’ús de material d’estudi divers garanteix tres funcions: construcció del coneixement, exercitació dels sabers i mobilització dels sabers. Aquest material ha evolucionat des del material en PDF fins al material integrat al format Moodle (llibres Moodle, lliçons) juntament amb altres canals diversificats de presentació de la informació com l’audiovisual"[^pec-material-estudi-0].
+Segons el PEC de l'IOC, "l’ús de material d’estudi divers garanteix tres funcions: construcció del coneixement, exercitació dels sabers i mobilització dels sabers. Aquest material ha evolucionat des del material en PDF fins al material integrat al format Moodle (llibres Moodle, lliçons) juntament amb altres canals diversificats de presentació de la informació com l’audiovisual"[^pec-material-estudi-0].
 
 Els materials d'estudi, llavors, són un dels elements clau del disseny d'aula de l'IOC. El cos d'aquest materials d'estudi o, millor dit, *recursos d'aprenentatge* no només han de donar resposta a l'exigència dels continguts del currículum de les matèries sinó també, en el cas que ens afecta, els formats amb els que els presentem.
 
@@ -254,10 +219,10 @@ Finalment, la *curació* dona protagonisme en com ha de ser el disseny seqüenci
 
 Avançar en la definició d'un disseny de publicació en obert dels recursos d'aprenentatge de les matèries de la modalitat d'arts del Batxillerat.
 
-https://www.open.ac.uk/equality-diversity/
-https://help.open.ac.uk/additional-module-material-formats
+<!-- https://www.open.ac.uk/equality-diversity/ -->
+<!-- https://help.open.ac.uk/additional-module-material-formats -->
 
-## Eix estratègies de comunicació síncrona
+## Eix d'estratègies de comunicació síncrona
 
 Incorporació equilibrada de diferents estràtegies de comunicació síncrona amb l'estudiant que representin un pont entre les activitats i els recursos d'aprenentatge sense que això representi un greuge o detriment del treball individual o asincrònic.
 
@@ -265,18 +230,23 @@ Incorporació equilibrada de diferents estràtegies de comunicació síncrona am
 
 "El darrer aspecte relacionat amb la comunicació és la dualitat entre la sincronia i l’asincronia. Un sistema de comunicació basat en la sincronia és insostenible a través d’eines com Zoom, Meet, Teams o Skype, requereix més planificació, més infraestructura tecnològica i pot exercir més pressió en els usuaris, per la qual cosa cal reservar els moments síncrons per a qüestions concretes de seguiment emocional, donar feedback personalitzat, treball en petits grups autònoms o per activitats concretes que siguin realment interactives i motivadores."[^serarols].
 
-## Eix avaluació i seguiment de l'estudiant
+## Eix d'avaluació i seguiment
 
 Avaluació de l'estudiant en sintonia amb el plantejament anterior que, en definitiva, potencii l'aprenentatge i les competències dels estudiants.
 
-"Aquest plantejament suposa repensar l’avaluació dels aprenentatges de l’alumnat a través de dues estratègies. La primera és priorit-zar l’avaluació formadora a través d’un
+"Aquest plantejament suposa repensar l’avaluació dels aprenentatges de l’alumnat a través de dues estratègies. La primera és prioritzar l’avaluació formadora a través d’un
  feedback de qualitat que focalitzi en allò que l’alumne ha fet bé i de quina manera pot millorar. El feedback ha de ser clar, regular i a temps. Sovint és individual, però també es poden preveure sessions grupals i hem de considerar les eines de feedback integrades en la majoria de plataformes que usen els centres com Google Classroom o Moodle. La segona estratègia és basar l’avaluació en la creació, és a dir, en les produccions de l’alumnat, tot focalitzant més en el procés de creació que no pas en el producte final."[^serarols]
+
+Avaluació individual amb retroacció individualitzada i, d'altra banda, avaluació general.
+
+Seguiment
+
 
 ## Objectius
 
 El desenvolupament conceptual d'aquests tres eixos d'actuacions definiran els següents objectius a concretar en un calendari de quatre anys:
 
-1. Proporcionar un ventall ample dels formats dels materials d'estudi de l'aula, és a dir:
+1. Proporcionar un ventall ampli d'**alternatives de formats dels recursos d'aprenentatge** de l'aula, és a dir:
    * Format web optimitzada per a la lectura amb mòbil.
    * Format PDF per a situacions de manca de connectivitat i, per tant, un aprenentatge *offline*. Han d'estar optimitzats no únicament per a la seva impressió sinó també la maquetació, disseny i
    * eBooks o format ePub (*Electronic Publication*) per als e-readers i, per tant, per aquella activitat d'aprenentatge *offline*.
@@ -284,26 +254,104 @@ El desenvolupament conceptual d'aquests tres eixos d'actuacions definiran els se
    * Format [DAISY](https://daisy.org/) per assegurar l'accessibilitat de qualsevol publicació digital.
    * Format Word o LibreOffice: aquests formats editables permeten no només l'estudi *offline* sinó també la possibilitat d'anotacions per part de l'estudiant, així com també per aquells dispositius de lectura com el [JAWS screen reader](https://www.freedomscientific.com/products/software/jaws/). Aquests dos formats també permeten als estudiants la personalització del cos de lletra, colors i interlineats amb l'objectiu que els hi faciliti la lectura del cos del document.
    * *Podcast* dels materials d'estudi que, a banda de la seva portabilitat, representin una alternativa d'estudi per aquells estudiants amb dificultats d'aprenentatge com la dislexia o problemes de visió parcial o total.
-2. Curació de recursos i activitats:
+2. **Curació de recursos d'aprenentatge**.
+3. Disseny d'activitats
+4. **Avaluació personalitzada/grup**.
+5. Seguiment
 
-### Cronograma/Calendari
+# Exemplificació d'activitat d'aprenentatge: *Tots els barrocs del món*
 
-https://elbauldelprogramador.com/crear-diagrama-de-gantt-en-latex/
+Amb la intencionalitat clara de defensar un enfocament que va del general a l'específic, m'agradaria compartir l'exemple d'una activitat d'aprenentatge que reculli la possible concreció dels objectius definits a la proposta del projecte i, per tant, enumerar les actuacions necessàries per fer-la viable en el marc dels estudis de Batxillerat de l'IOC. L'activitat l'anomenaré com a *Tots els barrocs del món* i està  enmarcada en la matèria de comuna d'opció de la modalitat d'arts, **Fonaments de les arts**.
 
+## Context curricular de la matèria
 
-# Exemplificació d'activitat d'aprenentatge de la matèria Fonaments de les arts I: *Tots els barrocs del món*
+En la modalitat d’arts, els alumnes han de cursar al llarg dels dos cursos de Batxillerat la matèria comuna d'opció **Fonaments de les arts I i II**, que inclou una bona part dels continguts d’Història de l’art (Decret 142/2008), amb una mirada més àmplia amb altres manifestacions artístiques i culturals (arts escèniques, música, disseny i mitjans audiovisuals). El currículum de primer curs arriba fins al segle XVIII i el de segon curs inclou els segles XIX i XX.
 
-En la modalitat d’arts, els alumnes han de cursar al llarg dels dos cursos de Batxillerat la matèria comuna d'opció Fonaments de les arts I i II, que inclou una bona part dels continguts d’Història de l’art (Decret 142/2008), amb una mirada més àmplia amb altres manifestacions artístiques i culturals (arts escèniques, música, disseny i mitjans audiovisuals). El currículum de primer curs arriba fins al segle XVIII i el de segon curs inclou els segles XIX i XX.
-
-https://fonamentsdelesarts.wordpress.com/portfolio/organitzacio-materia/
-
-Segons el currículum procediments i actituds que es relacionen amb tres competències fonamentals:
+Segons el currículum, la matèria de Fonaments de les arts comporta el domini de bases teòriques, procediments i actituds que es relacionen amb tres competències fonamentals:
 
 * la competència en la dimensió temporal de les manifestacions artístiques;
 * la competència en l'observació, anàlisi i interpretació de les produccions artístiques,
 * i la competència en el desenvolupament de la sensibilitat estètica.
 
+Aquest plantejament de la matèria de Fonaments de les arts comporta una distància envers un coneixement enciclopèdic i, en canvi, introdueix la necessitat d'un aprenentatge més competèncial a partir d'idees artístiques i, per tant, **la importància a la comprensió a la classificació del fet artístic**. Dit d'una altra manera: es convida a l'estudiant a una lectura transversal i globalitzat del fet artístic en lloc del discurs historiogràfic més propi de l'enfocament de la matèria d'Història de l'art, on s'estableix un coneixement de les obres artístique seguint un línea cronològica per estils, noms i obres més representatives de les anomenades *belles arts* de la tradició artística europea. A la matèria de Fonaments de les arts, l'estudiant ha d'aprendre a identificar, argumentar, relacionar, dialogar, crear, comunicar i gaudir del fet artístic i, en definitiva, **disposar d'eines per a reflexionar sobre elements fonamentals de l'art a través de referències passades i presents**[^fonaments-arts].
 
+[^fonaments-arts]: Planella Serra, Montserrat i Ferré Carreras, Blanca, *Espai de materials de formació dels docents de Fonaments de les arts*, [https://fonamentsdelesarts.wordpress.com/credits/](https://fonamentsdelesarts.wordpress.com/credits/).
+
+No és casual que la formulació de l'estructura i els criteris generals d'avaluació de la prova de Fonaments de les arts de les PAU[^pau-fonaments-arts] incorpori aquesta dimensió competencial, fet que accentua encara més la necessitat d'organitzar el disseny metodològic de l'aula de la matèria perquè els estudiants acabin assolint l'examen amb èxit.
+
+Llavors, a més del repte d'acompanyar els estudiants en l'adquisició de les competències i capacitats de reflexió sobre el fet artístic a través d'una mirada àmplia i polièdrica de l'art del passat i del present, com organitzem la matèria a nivell dels continguts tal com estan presentats al currículum en el context dels estudis *a distància* del Batxillerat de l'IOC (la semestralitat, l'ampli perfil de l'estudiant, però amb molta presència de *visitants*, la familiarització de l'estudiant amb l'entorn del campus de l'IOC, els possibles obstacles d'estudiar davant de la pantalla, l'atenció a la diversitat dels estudiants...)?
+
+La següent proposta d'activitat d'aprenentatge vol exemplificar una possible estratègia a la pregunta anterior i, sobretot, la manera en què poden introduir-se i aplicar els objectius deduits de l'ideari dels tres eixos formulats al projecte amb el propòsit que els estudiants sentin i participin d'una experiència d'EA basada en la cultura d'Internet actual a la d'un disseny d'aula basat únicament en el model d'estudis a *distància*.
+
+[^pau-fonaments-arts]: Informació de la matèria Fonaments de les arts dins de la secció de Proves d'accés PAU i PAP: [https://universitats.gencat.cat/ca/proves-acces-PAU-PAP/preparat-PAU/materies-PAU/fonaments-arts/](https://universitats.gencat.cat/ca/proves-acces-PAU-PAP/preparat-PAU/materies-PAU/fonaments-arts/).
+
+## Context de l'activitat *Tots els barrocs del món*
+
+Una línia de treball amb els estudiants de la matèria és visualitzar com algunes idees artístiques associades a moments clau de la història de l'art traspassan els límits temporals fins arribar avui dia, ja sigui perquè els creadors imiten l'estil, els motius o les formes o perquè consideren que viuen en un context sociocultural similar al del període històric. Aquestes pràctiques de reinvenció, d'apropiació, de reinterpretació dels creadors contemporanis poden ajudar els estudiants, mitjançant el diàleg entre obres que participen de correspondències estilístiques i formals del passat amb el present una millor comprensió de la complexitat del fet artístic actual (sigui aquell que permaneix silenciós en una galeria d'art contemporani com un video clip d'una cançó de *trap*) i, amb ell, les circumstàncies del context.
+
+Una d'aquestes idees de l'art és la que es coneix com a **Barroc**: una etapa cultural sobrevinguda principalment al segle XVII com a conseqüència, sobretot, de les lluites religioses i territorials que havien fragmentat Europa en el segle XVI, i que va impregnar tots els aspectes de la vida i la cultura del moment.
+
+Per tant, amb la finalitat de treballar la idea de l'art del Barroc a l'aula virtual, es proposa:
+
+1. Cerca d'un recurs actual que tingui clarament influències d'aquell moment i, per tant, mostri l'apropiació de l'estil del fet artístic del Barroc històric. Aquest recurs ha de venir acompanyat d'una introducció per tal de contextualitzar-lo. Es plantejaria com a fil de debat de fòrum, alternativament, com a vídeo d'introducció de la temàtica de l'aula. Un exemple de recurs podria ser el video clip de trap [Velaske, yo soi guapa? (Las Meninas Trap Mix), 2017](https://www.youtube.com/watch?v=Il6p2-40-F0), amb més d'onze milions de visites. Si es proposa un debat d'inici, s'interpel·la a l'estudiant a participar-hi a partir de qüestions com:
+   * Heu vist en persona les Meninas de Velázquez? Si és afirmatiu, què recordes del quadre? quins elements del quadre et van cridar més l'atenció?
+   * Què creus que podria significar el següent fragment de la lletra del trap: *Pero escuche un secreto: yo la estoy pintando a usted ¿Viste que en el cuadro se está pintando un cuadro? Po' en realidad, señora, yo la 'toy pintando a usted (¿¡cómo!?)*.
+   * Si aquest és una de les obres més representatives del Barroc, podries proposar tres elements estílistics que creus que podrien definir la idea artística del Barroc?
+
+   **NOTA**: S'intenta plantejar la temàtica des d'una perspectiva més àmplia, en sintonia amb l'organització de la matèria, informant l'estudiant del plantejament de l'activitat com a repte: **L'estil artístic del Barroc, és encara vigent avui dia?**
+2. Cal proposar recursos d'aprenentatge significatius que permetin l'estudiant contextualitzar el període històric del Barroc i, per tant, establir les pertinents conexions entre les manifestacions artístiques amb els fets socials, polítics i culturals.
+
+
+
+
+<!-- Aquesta part ha d'anar directament a la proposta de projecte
+
+* Cal interpel·lar l'estudiant directament perquè aquest trobi sentit a les propostes d'EA de l'aula virtual. Cal una tasca de *captatio*, sigui a través de la creació de vídeos
+* Crear complicitat o ponts amb l'estudiant a través de compartir la nostra mirada o reflexió sobre allò que els hi demanem a la proposta didàctica.
+* Activitats d'actualitat i crear un espai temporal o de moment compartit, per contrarestar la "distància".
+* A l'ensenyament a distància és bastant més complicat treballar en grup o de manera col·laborativa que a la presencial. La proposta és més al final que no de suma o durant el procés.
+* A l'ensenyament a distància demana més individualització de l'aprenentatge.
+* Activitats plantejades com a reptes: "L'estil artístic del barroc encara hi és present avui dia?"
+* Mostrar-nos com a docents com també donar-los la paraula, escoltar-los.
+* Explicitar la nostra tasca docent (dins de la formalitat). Justificar els objectius d'aprenentatge. (*Captatio*). Ella ho proposa a través d'un àudio, vídeo o text escrit.
+* Intentar buscar propostes didàctiques que interpel·lin directament l'estudiant, fins i tot a un nivell personal.
+
+End -->
+
+
+
+
+
+
+
+
+
+
+<!-- ### Experiències d'ensenyament aprenentatge de l'especialitat de Dibuix a l'IOC -->
+
+<!-- Com a docent de l'especialitat de Dibuix, he participat en la definició i disseny de les següents aules, totes elles vinculades a la modalitat d'Arts de Batxillerat de l'IOC: -->
+
+<!-- * Fonaments de les arts -->
+<!-- * Dibuix artístic -->
+<!-- * Volum -->
+<!-- * Tècniques d'expressió graficoplàstica -->
+
+<!-- Aquestes aules han experimentat diferents canvis de disseny metodologic al llarg dels diferents anys acadèmics -->
+
+<!-- #### Fonaments de les arts (2016-) -->
+
+<!-- #### Dibuix artístic (2013-2016) -->
+
+<!-- #### Volum (2008-) -->
+
+<!-- * Tot i que els estudiants experimenten amb la pràctica escultòrica des de la vessant tradicional[^planella], es va incorporar conceptes associats a la virtualitat del volum i, per tant, a aquelles pràctiques relatives a l'EA del modelatge tridimensionals amb programari especialitzat[^blender]. -->
+<!-- * Es proposa l'aprenentatge de la noció de Volume en base a conceptes -->
+
+<!-- [^planella]: Destacar com a referència la proposta de disseny d'aula de [Volum](http://www.xtec.cat/~mplanel4/volum/volum.htm) presencial de [Montserrat Planella][https://montserratplanella.wordpress.com/about/]. -->
+
+<!-- ### Cronograma/Calendari -->
+
+<!-- https://elbauldelprogramador.com/crear-diagrama-de-gantt-en-latex/ -->
 
 <!--
 ##
@@ -385,7 +433,6 @@ i d'altres eines tecnològiques que facilitin l'aprenentatge i la comunicació.
 entre els alumnes.
 * Participar en l'elaboració, la revisió, l'actualització i l'avaluació dels materials didàctics.
 -->
-
 
 <!-- ```{.graphviz dpi=300 format=PNG caption="Esquema actuacions IOC"} -->
 <!-- digraph mygraph { -->

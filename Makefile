@@ -1,7 +1,7 @@
 PANDOC=pandoc
 PANDOC_OPTIONS=--standalone --filter
 PANDOC_FILTERS=pandoc-fignos
-MARKDOWN_FORMAT=markdown+smart+fenced_code_blocks+fenced_code_attributes+grid_tables+footnotes
+MARKDOWN_FORMAT=markdown+smart+fenced_code_blocks+fenced_code_attributes+grid_tables+footnotes+fancy_lists+startnum+task_lists+definition_lists
 TEMPLATE_PDF_DIR=../Core/data-dir/tpl/pdf/
 TEMPLATE_PDF=recurs.tex
 OUT=./export

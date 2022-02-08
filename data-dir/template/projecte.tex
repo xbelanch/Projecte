@@ -437,6 +437,11 @@ $if(logo)$
 $endif$
 $endif$
 
+%% source: https://stackoverflow.com/questions/24635804/creating-a-multi-level-enumerated-list-in-pandoc-markdown
+\renewcommand{\labelenumi}{\arabic{enumi}.}
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}}
+\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumii}}
+
 \begin{document}
 $if(has-frontmatter)$
 \frontmatter

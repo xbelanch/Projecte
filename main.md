@@ -35,6 +35,8 @@ Fet d'això són els diferents projectes de caràcter transversal que he pres pa
 
 Una de les estratègies efectives d'apoderament com a propi el centre de treball és la participació i col·laboració en la realització i consecució de projectes de caràcter transversal. Per la meva part, complementant la docència com a professor responsable del disseny dels recursos i activitats de les matèries de l'especialitat de Dibuix (**Fonaments de les arts I**, **Dibuix artístic**, **Volum**, **Tècniques d'expressió graficoplàstica**), he contribuït activament en l'assoliment de projectes transversals de centre que enumero a continuació:
 
+**LAIA**: Creus que hauria d'incloure els tres anys al Departament d'Educació com a tècnic docent?
+
 * De l'any 2009 fins al 2011 vaig coliderar el **procés de transició de la creació i publicació de materials d'estudi de l'FP**: del servei d'una empresa associada a la producció de materials de la UOC[^eurekamedia] a la d'un entorn wiki de creació pròpia[^wiki]. Aquest colideratge o treball horitzontal entre els diferents actors implicats (equip directiu, professorat, enginyers informàtics, editors, grafistes) va afavorir la consolidació d'una infrestructura interna de l'IOC ([https://dokuwiki.ioc.cat/doku.php](https://dokuwiki.ioc.cat/doku.php)) que és vigent i operativa a dia d'avui.
 * De l'any 2011 fins al 2018 vaig participar en el desenvolupament del projecte **miniops**[^miniops], cursos oberts, interdisciplinaris i de curta durada (15 a 20 hores) disponibles per a la comunitat educativa, però estratègics en els estudis del GES (permeten acreditar mòduls optatius), tant com a ideòleg com a responsable del disseny web. Des del 2019 fins el dia d'avui, col·laboro en el disseny i desenvolupament tècnic del miniop *Llegir en xarxa*.
 * Des del 2014 fins al 2016 vaig col·laborar, per una banda, amb la direcció de l'IOC per a la implementació del cicle formatiu de grau superior d'**Animacions 3D, jocs i entorns interactius** i, d'altra banda, la redacció de dos unitats formatives: *Generació de textures procedimentals 2D i 3D i mapa de bits*[^uf1] i *Introducció al disseny de videojocs*[^uf2].
@@ -171,6 +173,12 @@ Dins de l'oferta educativa de l'IOC, el Batxillerat a l'IOC, antic ICESD, presen
 * Hi ha una oportunitat que l'estudiant visitant millori en aspectes associats amb la competència digital sempre i quan l'actuació formativa des de les assignatures a l'IOC accentuin aquesta
 * Cal pensar que la dedicació horària de les diferents tipologies d'estudiants és, en certa manera, altament fragmentada, fet que fa difícil encaixar segons quines propostes on s'accentui la participació periòdica dels estudiants. Això és un dels problemes més significatius que afecta directament el disseny de l'aula.
 
+<!-- En els estudis del **Batxillerat artístic de l'IOC**, aquesta doble actuació té un alt valor en quant a que, a diferència de l'oferta presencial d'aquesta modalitat fa que, per una banda, el nombre d'estudiants visitants ja sigui el majoritari i, d'altra banda, les característiques pròpies del currículum poden ser desenvolupades en consonància amb l'assoliment de les competències digitals dels estudiants amb propostes on la cultura d'Interent siguin predominants en el disseny de les activitats. -->
+
+Una altra factor de complexitat és la necessitat del professorat col·laborador que, en en el marc dels estudis de Batxillerat, condiciona el disseny o propostes metodologiques a l'aula (TODO: incloure normativa del decret). En primer lloc,...
+
+// TODO: Falta acabar aquesta secció
+
 ### Normativa estudiants batxillerat modalitat no presencial
 
 * Resolució ENS/1432/2013, de 27 de juny, relativa a les matèries d'educació secundària obligatòria i batxillerat dels centres educatius que es poden cursar en la modalitat d'educació no presencial (DOGC núm. 6409, de 3.7.2013).
@@ -178,11 +186,7 @@ Dins de l'oferta educativa de l'IOC, el Batxillerat a l'IOC, antic ICESD, presen
 * Concreció i desenvolupament del currículum de batxillerat (Documents per a l'organització i la gestió dels centres)
 * ORDRE EDU/156/2020, de 18 de setembre, per la qual se suprimeixen i es creen diversos preus públics i els imports de determinats ensenyaments, cursos i formacions impartits a distància per l'Institut Obert de Catalunya (DOGC núm. 8230, de 22.9.2020.
 
-En els estudis del **Batxillerat artístic de l'IOC**, aquesta doble actuació té un alt valor en quant a que, a diferència de l'oferta presencial d'aquesta modalitat fa que, per una banda, el nombre d'estudiants visitants ja sigui el majoritari i, d'altra banda, les característiques pròpies del currículum poden ser desenvolupades en consonància amb l'assoliment de les competències digitals dels estudiants amb propostes on la cultura d'Interent siguin predominants en el disseny de les activitats.
 
-#### Tècniques d'expressió graficoplàstica (2008-2020)
-
-Matèria específica que, en el context de la presencial, té un elevat grau de pràctiques artístiques tradicionals. En canvi, es proposa un disseny d'activitats que explora temàtiques transversals d'actualitat de l'expressió gràfica.
 
 # Proposta de projecte
 
@@ -228,12 +232,13 @@ Avançar en la definició d'un disseny de publicació en obert dels recursos d'a
 
 La comunicació és un dels factors clau de l'EA de l'estudiant en el context de les aules virtuals. No és casual que el PEC de l'IOC la identifiqui com a element de vital importància el seu ús i actualització per "garantir la qualitat del projecte"[^pec-ioc-4].
 
-
-
-
-
 [^pec-ioc-4]: Projecte educatiu de centre de l'IOC, p. 4.
 
+A l'IOC, per tant, com a centre d'estudis *a distància* (autonomia i flexibilitat), el sistema dominant de comunicació amb els l'estudiant és el model *asíncron*, és a dir, l'ús intensiu d'aquelles eines de comunicació pròpies de l'EVA com, per exemple, el correu intern o els fòrums.
+
+Aquesta comunicació sempre està...
+
+// TODO: Falta acabar aquesta secció
 
 Incorporació equilibrada de diferents estràtegies de comunicació síncrona amb l'estudiant que representin un pont entre les activitats i els recursos d'aprenentatge sense que això representi un greuge o detriment del treball individual o asincrònic.
 
@@ -242,14 +247,14 @@ Incorporació equilibrada de diferents estràtegies de comunicació síncrona am
 
 ## Eix d'avaluació i seguiment
 
+// TODO: Falta acabar aquesta secció
+
 Avaluació de l'estudiant en sintonia amb el plantejament anterior que, en definitiva, potencii l'aprenentatge i les competències dels estudiants.
 
 "Aquest plantejament suposa repensar l’avaluació dels aprenentatges de l’alumnat a través de dues estratègies. La primera és prioritzar l’avaluació formadora a través d’un
  feedback de qualitat que focalitzi en allò que l’alumne ha fet bé i de quina manera pot millorar. El feedback ha de ser clar, regular i a temps. Sovint és individual, però també es poden preveure sessions grupals i hem de considerar les eines de feedback integrades en la majoria de plataformes que usen els centres com Google Classroom o Moodle. La segona estratègia és basar l’avaluació en la creació, és a dir, en les produccions de l’alumnat, tot focalitzant més en el procés de creació que no pas en el producte final."[^serarols]
 
 Avaluació individual amb retroacció individualitzada i, d'altra banda, avaluació general.
-
-
 
 ## Objectius
 

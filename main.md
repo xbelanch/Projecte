@@ -224,9 +224,19 @@ Avançar en la definició d'un disseny de publicació en obert dels recursos d'a
 
 ## Eix d'estratègies de comunicació síncrona
 
+>"L'ús del correu electrònic és fàcil i ràpid, però potser no és el mitjà més eficaç"[^serarols].
+
+La comunicació és un dels factors clau de l'EA de l'estudiant en el context de les aules virtuals. No és casual que el PEC de l'IOC la identifiqui com a element de vital importància el seu ús i actualització per "garantir la qualitat del projecte"[^pec-ioc-4].
+
+
+
+
+
+[^pec-ioc-4]: Projecte educatiu de centre de l'IOC, p. 4.
+
+
 Incorporació equilibrada de diferents estràtegies de comunicació síncrona amb l'estudiant que representin un pont entre les activitats i els recursos d'aprenentatge sense que això representi un greuge o detriment del treball individual o asincrònic.
 
-"L'ús del correu electrònic és fàcil i ràpid, però potser no és el mitjà més eficaç"[^serarols].
 
 "El darrer aspecte relacionat amb la comunicació és la dualitat entre la sincronia i l’asincronia. Un sistema de comunicació basat en la sincronia és insostenible a través d’eines com Zoom, Meet, Teams o Skype, requereix més planificació, més infraestructura tecnològica i pot exercir més pressió en els usuaris, per la qual cosa cal reservar els moments síncrons per a qüestions concretes de seguiment emocional, donar feedback personalitzat, treball en petits grups autònoms o per activitats concretes que siguin realment interactives i motivadores."[^serarols].
 
@@ -239,7 +249,6 @@ Avaluació de l'estudiant en sintonia amb el plantejament anterior que, en defin
 
 Avaluació individual amb retroacció individualitzada i, d'altra banda, avaluació general.
 
-Seguiment
 
 
 ## Objectius
@@ -257,6 +266,8 @@ El desenvolupament conceptual d'aquests tres eixos d'actuacions definiran els se
        * Format Word o LibreOffice: aquests formats editables permeten no només l'estudi *offline* sinó també la possibilitat d'anotacions per part de l'estudiant, així com també per aquells dispositius de lectura com el [JAWS screen reader](https://www.freedomscientific.com/products/software/jaws/). Aquests dos formats també permeten als estudiants la personalització del cos de lletra, colors i interlineats amb l'objectiu que els hi faciliti la lectura del cos del document.
        * *Podcast* dels materials d'estudi que, a banda de la seva portabilitat, representin una alternativa d'estudi per aquells estudiants amb dificultats d'aprenentatge com la dislexia o problemes de visió parcial o total.
 #. **Disseny d'activitats d'aprenentatge**:
+   #. <!-- TODO: Cal reescriure aquest ítem --> **Contextualització**: emmarcar-la en la realitat, en una necessitat, justificar-la amb relació a un fet o situació real o imaginada, un fet social, actual o bé connectar-la amb algun aspecte o contingut clau de la matèria que doni sentit a l’activitat.
+
 #. **Avaluació per competències**:
 #. **Seguiment de l'estudiant**:
 
@@ -286,13 +297,28 @@ La següent proposta d'activitat d'aprenentatge vol exemplificar una possible es
 
 [^pau-fonaments-arts]: Informació de la matèria Fonaments de les arts dins de la secció de Proves d'accés PAU i PAP: [https://universitats.gencat.cat/ca/proves-acces-PAU-PAP/preparat-PAU/materies-PAU/fonaments-arts/](https://universitats.gencat.cat/ca/proves-acces-PAU-PAP/preparat-PAU/materies-PAU/fonaments-arts/).
 
-## Context de l'activitat *Tots els barrocs del món*
+## Descripció de l'activitat *Tots els barrocs del món*
 
-Una línia de treball amb els estudiants de la matèria és visualitzar com algunes idees artístiques associades a moments clau de la història de l'art traspassan els límits temporals fins arribar avui dia, ja sigui perquè els creadors imiten l'estil, els motius o les formes o perquè consideren que viuen en un context sociocultural similar al del període històric. Aquestes pràctiques de reinvenció, d'apropiació, de reinterpretació dels creadors contemporanis poden ajudar els estudiants, mitjançant el diàleg entre obres que participen de correspondències estilístiques i formals del passat amb el present una millor comprensió de la complexitat del fet artístic actual (sigui aquell que permaneix silenciós en una galeria d'art contemporani com un video clip d'una cançó de *trap*) i, amb ell, les circumstàncies del context.
+Explico a continuació un disseny d'activitat on incorporo, conjuntament, aquells objectius definits i enumerats a la descripció de la proposta de projecte.
 
-En l'itinerari cronològic dels continguts del currículum, el Barroc històric ocupa, juntament amb el Neoclassicisme, el tram final del primer curs de la matèria. Com ja hem vist, l'organització de la matèria en clau competencial permet un plantejament de més recorregut i, per tant, proposar el Barroc als estudiants no des d'una perspectiva historicista sinó com a idea artística que, com a etapa cultural sobrevinguda principalment al segle XVII, hi projecta una ombra dels seus trets estilístics i formals a moltes de les produccions o creacions actuals.
+### Contextualització
 
-Per tant, amb la finalitat de treballar la idea de l'art del Barroc des d'una perspectiva transversal a l'aula virtual, es proposa el següent:
+Una línia de treball amb els estudiants de la modalitat d'arts del Batxillerat és visualitzar com algunes idees artístiques associades a moments clau de la història de l'art traspassan els límits temporals fins arribar avui dia, ja sigui perquè els creadors imiten l'estil, els motius o les formes o perquè consideren que viuen en un context sociocultural similar al del període històric. Aquestes pràctiques de reinvenció, d'apropiació, de reinterpretació dels creadors contemporanis poden ajudar els estudiants, mitjançant el diàleg entre obres que participen de correspondències estilístiques i formals del passat amb el present una millor comprensió de la complexitat del fet artístic actual (sigui aquell que permaneix silenciós en una galeria d'art contemporani com un video clip d'una cançó de *trap*) i, amb ell, les circumstàncies del context.
+
+En l'itinerari cronològic dels continguts del currículum de la matèria de **Fonaments de les arts**, el Barroc històric ocupa, juntament amb el Neoclassicisme, el tram final del primer curs de la matèria. L'organització de la matèria en clau competencial permet un plantejament de més recorregut i, per tant, proposar el Barroc als estudiants no des d'una perspectiva historicista sinó com a idea artística que, com a etapa cultural sobrevinguda principalment al segle XVII, hi projecta una ombra dels seus trets estilístics i formals a moltes de les produccions o creacions actuals.
+
+### Temporització de l'activitat
+
+Es proposa un temps de dedicació al voltant dels 10-15 dies en temps d'aula virtual on es té en compte:
+
+* La participació en una activitat o tasca de participació en grup (tipus fòrum) com a introducció a la temàtica i pregunta de l'activitat.
+* El temps de consulta dels diferents recursos d'aprenentatge disponibles a l'aula específics de l'activitat.
+* El temps de lectura i anàlisi de la proposta d'activitat. Es podria plantejar la publicació de models modèlics fets per estudiants en una edició anterior d'un curs anterior, tot i que no en sóc partidari, ja que més que una ajuda podria representar una limitació envers la creativitat de l'estudiant.
+* El temps de recerca, elaboració i publicació de l'objecte de l'encàrrec de l'activitat.
+
+### Descripció de l'activitat
+
+Per tant, amb la finalitat de treballar la idea de l'art del Barroc des d'una perspectiva transversal a l'aula virtual, es proposa el següent encàrrec:
 
 #. Cercar un recurs d'actualitat que mostri clarament influències estilístiques o referències explicites del fet artístic del Barroc històric. Aquest recurs ha de venir acompanyat d'una introducció per tal de contextualitzar-lo. Es plantejaria com a fil de debat de fòrum, alternativament, com a vídeo d'introducció de la temàtica de l'aula. Un exemple de recurs podria ser el video clip de trap [Velaske, yo soi guapa? (Las Meninas Trap Mix), 2017](https://www.youtube.com/watch?v=Il6p2-40-F0), amb més d'onze milions de visites. Si es proposa un debat d'inici, s'interpel·la a l'estudiant a participar-hi a partir de qüestions com:
    * Heu vist en persona les Meninas de Velázquez? Si és afirmatiu, què recordes del quadre? quins elements del quadre et van cridar més l'atenció?
@@ -300,6 +326,7 @@ Per tant, amb la finalitat de treballar la idea de l'art del Barroc des d'una pe
    * Si aquest és una de les obres més representatives del Barroc, podries proposar tres elements estílistics que creus que podrien definir la idea artística del Barroc?
 
    **Objectiu X.X**: S'intenta plantejar la temàtica des d'una perspectiva més àmplia, en sintonia amb l'organització de la matèria, informant l'estudiant del plantejament de l'activitat com a repte: **L'estil artístic del Barroc, és encara vigent avui dia?**
+   **Objectiu X.X**: Es proposa com a ajuda a la realització de tasca inicial una *sessió síncrona* (dos o tres dies deprés del començament de l'activitat) amb la finalitat de fer-ne una introducció més personal de la temàtica de l'activitat a més de la possibilitat de respondre dubtes sobrevinguts. L'enregistrament de la sessió podria incorporar-se com a ajuda a aquells estudiants que no hagi pogut assistir-hi.
 
 #. Lliurar recursos d'aprenentatge significatius que permetin l'estudiant
 contextualitzar el període històric del Barroc i, per tant, establir les pertinents conexions entre les manifestacions artístiques amb els fets socials, polítics i culturals.
@@ -308,17 +335,32 @@ contextualitzar el període històric del Barroc i, per tant, establir les perti
     **Objectiu 1.2**: Si és un recurs de vídeo original en un altre idioma, cal la creació de subtítols en català i transcripció del contingut en múltiples formats. Si és un recurs de lectura, cal proporcionar el cos del contingut en diferents formats que permetin una lectura òptima segons els dispositiu o hàbits d'estudi de l'estudiant.
 
 #. Es proposa l'**enunciat de l'activitat d'aprenentatge** perquè l'estudiant interpreti l'estil del Barroc històric com una manera de comprendre el fet artístic que perdura en l'actualitat partint d'una selecció o mostra de fets artístics actuals (pel·lícules, videojocs, sèries de televisió, videoclips, còmics, publicitat, reportatges gràfics, fotografia artística, pintura, escultura, *performance*, vídeo art, dansa...).
-#. L'objecte de l'activitat és que l'estudiant actui com a *comissari* d'una exposició fictícia i, per tant, se li demana que elabori una presentació perquè justifiqui:
-   #. Cerquin a Internet obres d'art del Barroc històric que consideri que mostren un vincle, paral·lelisme o relació amb les obres actuals.
-   #. Que elaborin un text on reculli els conceptes o idees sobre les relacions estilístiques que es produeixen entre les obres.
-   #. Que proposin preguntes o qüestionin el perquè de les apropiacions formals o estilístiques actuals envers a un moment històric anterior.
-   #. Que dedueixin i interpretin el context sociocultural actual a partir de les connexions o correspondències entre les obres del passat i del present: *creus que els creadors actuals consideren que viuen un moment similar al context sociocultural del Barroc històric?*
+#. L'objecte de l'activitat és que l'estudiant actui com a **comissari d'una exposició fictícia** i, per tant, se li demana que enrgistrin un presentació oral perquè justifiqui:
+   #. Cercar a Internet obres d'art del Barroc històric que consideri que mostren un vincle, paral·lelisme o relació amb les obres actuals.
+
+      **Objectiu X.X**: Potenciar la competència digital de l'estudiant en l'àmbit de recerca i processament d'informació a Internet.
+
+   #. Elaborar un text que reculli els conceptes o idees sobre les relacions estilístiques que es produeixen entre les obres.
+   #. Proposar preguntes o qüestionin el perquè de les apropiacions formals o estilístiques actuals envers a un moment històric anterior.
+   #. Deduir i interpretar el context sociocultural actual a partir de les connexions o correspondències entre les obres del passat i del present: *creus que els creadors actuals consideren que viuen un moment similar al context sociocultural del Barroc històric?*
 
     **Objectiu X.X**: Activitats plantejades com a reptes: "L'estil artístic del barroc encara hi és present avui dia?"
     **Objectiu X.X**: Activitats d'actualitat i crear un espai temporal o de moment compartit, per contrarestar la "distància".
-    **Objectiu X.X**: Activitat plantejada per consolidar competències digitals com la cerca d'informació com l'ús d'eines per a l'elaboració i publicació de la presentació.
 
+   #. Dissenyar una presentació de l'exposició (no és suggereix cap eina) en base a un guió que reculli una síntesi de les tres actuacions anteriors. El cos de la presentació ha d'estructurar-se en:
+      #. Concretar del títol de l'exposició que descrigui el contingut de forma clara i precisa.
+      #. Un nombre mínim de diapositives que mostrin les relacions (estelístiques o conceptuals) entre les obres actuals proposades a l'enunciat de l'activitat i aquelles obres del Barroc històric escollides per l'estudiant.
+   #. Finalment, enregistrar i publicar un vídeo on defensin el plantejament de l'exposició (diàleg entre passat i actualitat) com també una conclusió personal sobre les possibles connexions entre contextos socioculturals separats en el temps.
 
+       **Objectiu X.X**: Activitat plantejada per consolidar competències digitals com la cerca d'informació com l'ús d'eines per a l'elaboració i publicació de la presentació.
+
+### Avaluació de l'activitat
+
+S'inclou, per una banda, una **pauta de comprovació** a l'enunciat de l'activitat amb l'objectiu que l'estudiant verifiqui que ha seguit les indicacions correctament abans de publicar la feina per avaluar. D'altra banda, s'inclouen els **criteris d'avaluació** de l'activitat en forma de rúbrica o mitjançant una escala qualitativa suficientment clara perquè l'estudiant sàpiga com se li avaluarà i qualificarà la feina.
+
+A banda de la qualificació de la tasca, l'estudiant rebrà una valoracióx individualitzada segons la qualitat del treball lliurat, però també amb la finalitat que li serveixi de referència per a la realització de futures activitats de la matèria.
+
+Finalment, com a complement de la retroacció individual de la tasca, seria desitjable una **revisió del conjunt** de tasques lliurades mitjançant l'enregistrament d'un vídeo on el professorat responsable analitza i avalua diferents treballs publicats a la tasca. S'evita, per tant, altres actuacions similars on l'estudiant comparteix el seu treball a un fòrum a l'aula.
 
 <!-- Aquesta part ha d'anar directament a la proposta de projecte
 
@@ -333,15 +375,6 @@ contextualitzar el període històric del Barroc i, per tant, establir les perti
 * Intentar buscar propostes didàctiques que interpel·lin directament l'estudiant, fins i tot a un nivell personal.
 
 End -->
-
-
-
-
-
-
-
-
-
 
 <!-- ### Experiències d'ensenyament aprenentatge de l'especialitat de Dibuix a l'IOC -->
 

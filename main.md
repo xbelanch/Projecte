@@ -187,18 +187,17 @@ Una altra factor de complexitat és la necessitat del professorat col·laborador
 * ORDRE EDU/156/2020, de 18 de setembre, per la qual se suprimeixen i es creen diversos preus públics i els imports de determinats ensenyaments, cursos i formacions impartits a distància per l'Institut Obert de Catalunya (DOGC núm. 8230, de 22.9.2020.
 
 
-
 # Proposta de projecte
 
 Com definir un projecte davant dels reptes que es deriven de les dues grans qüestions anteriors? Penso que la **concreció de tres eixos d'actuacions** poden ajudar a representar un impacte significatiu en la millora de l'experiència d'aprenentatge dels estudiants davant del repte que els hi comporta *estudiar davant d'una pantalla*[^Studying-on-a-screen] les matèries de la modalitat d'Arts del Batxillerat de l'IOC a dia d'avui:
 
 * Eix de disseny dels recursos i activitats d'aprenentatge.
-* Eix d'estratègies de comunicació síncrona.
+* Eix d'estratègies de comunicació híbrides: l'aprenentatge bicrònic.
 * Eix d'avaluació i seguiment.
 
 [^Studying-on-a-screen]: Recomano la lectura de la pàgina [Studying on a screen](https://help.open.ac.uk/studying-on-a-screen) del [Help Center](https://help.open.ac.uk/) de l'Open University.
 
-## Eix de disseny dels recursos i activitats d'aprenentatge
+### Eix de disseny dels recursos i activitats d'aprenentatge
 
 Segons el PEC de l'IOC, "l’ús de material d’estudi divers garanteix tres funcions: construcció del coneixement, exercitació dels sabers i mobilització dels sabers. Aquest material ha evolucionat des del material en PDF fins al material integrat al format Moodle (llibres Moodle, lliçons) juntament amb altres canals diversificats de presentació de la informació com l’audiovisual"[^pec-material-estudi-0].
 
@@ -226,7 +225,7 @@ Avançar en la definició d'un disseny de publicació en obert dels recursos d'a
 <!-- https://www.open.ac.uk/equality-diversity/ -->
 <!-- https://help.open.ac.uk/additional-module-material-formats -->
 
-## Eix d'estratègies de comunicació síncrona
+### Eix d'estratègies de comunicació: el model *bicrònic*.
 
 >"L'ús del correu electrònic és fàcil i ràpid, però potser no és el mitjà més eficaç"[^serarols].
 
@@ -234,18 +233,30 @@ La comunicació és un dels factors clau de l'EA de l'estudiant en el context de
 
 [^pec-ioc-4]: Projecte educatiu de centre de l'IOC, p. 4.
 
-A l'IOC, per tant, com a centre d'estudis *a distància* (autonomia i flexibilitat), el sistema dominant de comunicació amb els l'estudiant és el model *asíncron*, és a dir, l'ús intensiu d'aquelles eines de comunicació pròpies de l'EVA com, per exemple, el correu intern o els fòrums.
+A l'IOC, per tant, com a centre d'estudis *a distància*, el sistema destacable de comunicació amb els l'estudiant és el model *asíncron*, és a dir, l'ús intensiu d'aquelles eines de comunicació pròpies de l'EVA com, per exemple, el correu intern o fòrums. Si bé aquest model de comunicació ha estat el dominant en la història dels ensenyaments a distància:
 
-Aquesta comunicació sempre està...
+* permet un tipus d'interacció que protegeix l'autonomia i flexibilitat dels estudiants amb el professorat, fet principal que anima a un perfil d'estudiant a reemprendre els seus estudis per la natura asíncrona dels estudis *a distància*, ja que els hi permet la convivència d'estudis amb la família i la feina o altres responsabilitats personals o professionals.
+* afavoreix una major comprensió en determinades situacions de comunicació entre els diferents actors que hi participen a l'aula virtual: l'eficacia del correu electrònic o de les entrades publicades a un debat de fòrum resideix en el temps flexible tant de lectura, processament i elaboració del cos del missatge.
 
-// TODO: Falta acabar aquesta secció
+La recent acceleració tecnològica dels sistemes de comunicació síncrona (en particular aquelles associades a les vídeoconferències o els nous entorns de xat o missatgeria instantània) i la seva popularitat social ha dibuixat un nou escenari que planteja, com a mínim, un questionament de l'exclusivitat del model asíncron dels estudis *a distància*: sigui de manera esporàdica o amb certa regularitat (pensem, per exemple, en l'activitat tutorial o en el seguiment dels estudiants que estan elaborant el Treball de recerca), arran de l'impacte de la COVID-19, les actuacions de comunicació síncrona concorren amb el disseny asíncron de l'aula dels estudis a distància. Tampoc no es pot minimitzar l'impacte que ha significat l'ús intensiu de les comunicacions síncrones des del punt de vista de l'estudiant (que experimenta continuament a l'àmbit personals o professional), fet del qual es podria deduir fàcilment una lectura de la percepció i experiència de *manca d'immediatessa, interacció i visualització* del disseny d'aula enterament asíncron. L'aprenentatge en sincronia entre estudiants i professorat en l'aula virtual trenca, per una banda, els límits definits a l'EVA i, d'altra banda, ajuda als estudiants a preguntar i rebre respostes *a temps real*, fet que podria beneficiar-se indirectament la realització d'activitats de comunicació *asíncrona* (debats de participació) i, per tant, minimitzar la sensació d'aillament de l'estudiant a l'aula virtual:
 
-Incorporació equilibrada de diferents estràtegies de comunicació síncrona amb l'estudiant que representin un pont entre les activitats i els recursos d'aprenentatge sense que això representi un greuge o detriment del treball individual o asincrònic.
+>Isolation can be overcome by more continued contact, particularly synchronously, and by becoming aware of themselves as members of a community rather than as isolated individuals communicating with the computer.[^isolation]
 
+[^isolation]: Haythornthwaite, Caroline; Kazmer, Michelle M. , *Bringing the Internet Home: Adult Distance Learners and Their Internet, Home, and Work Worlds*, a *The Internet in Everyday Life*, ed. Barry Wellman and Caroline Haythornthwaite (Malden, MA: Blackwell Publishing, 2002), pp. 431–463 [quote p. 459]. Citat a l'article d'Stefan Hrastinski, [Asynchronous and Synchronous E-Learning](https://er.educause.edu/articles/2008/11/asynchronous-and-synchronous-elearning#fn9), 2008.
 
-"El darrer aspecte relacionat amb la comunicació és la dualitat entre la sincronia i l’asincronia. Un sistema de comunicació basat en la sincronia és insostenible a través d’eines com Zoom, Meet, Teams o Skype, requereix més planificació, més infraestructura tecnològica i pot exercir més pressió en els usuaris, per la qual cosa cal reservar els moments síncrons per a qüestions concretes de seguiment emocional, donar feedback personalitzat, treball en petits grups autònoms o per activitats concretes que siguin realment interactives i motivadores."[^serarols].
+En certa manera, el dèficit de comunicació síncrona a entorns d'aprenentatge asíncrons, com passa a l'IOC, és la causa i origen principal de la degració de l'ús d'aquestes tecnologogies de comunicació asíncrona:
 
-## Eix d'avaluació i seguiment
+* *email overload*[^email_overload_already] o, el que és el mateix, la missatgeria de correu plena de missatges que semblen més formar part d'una conversa de missatgeria instantània.
+* allargament en el temps i en quantitat (overload again) de la solució de problemes per correu (manca de comprensió lectora,...).
+* o, en el seu defecte, resolucions d'incidències que requereixen un temps de resposta curta o gairebé immediata.
+
+[^email_overload_already]: [Email overload already](https://www.reddit.com/r/Professors/comments/ikk85e/email_overload_already/), entrada de subreddit r/Professors del 2021.
+
+Com he intentat defensar al principi del document, crec que és cabdal en la pràctica docent a l'IOC la introducció de pràctiques de comunicació síncrones que redueixin l'impacte que significa, per una banda, l'ús síncron de les comunicacions asíncrones així com també incorporar els beneficis i avantatges d'actuacions síncrones a les aules, és a dir, una incorporació equilibrada de diferents estràtegies de comunicació síncrona/asíncrona amb l'estudiant que representin un pont entre les activitats i els recursos d'aprenentatge sense que això representi un greuge o detriment del disseny d'aula asincròn. És a dir, la barreja de l’aprenentatge síncron i asíncron amb el que es coneix com a **aprenentatge bicrònic**[^bichronous].
+
+[^bichronous]: *Bichronous Online Learning: Blending Asynchronous and Synchronous Online Learning*, Florence Martin, Drew Polly and Albert Ritzhaupt Published: Tuesday, September 8, 2020.
+
+### Eix d'avaluació i seguiment de l'aprenentatge
 
 // TODO: Falta acabar aquesta secció
 
@@ -254,7 +265,14 @@ Avaluació de l'estudiant en sintonia amb el plantejament anterior que, en defin
 "Aquest plantejament suposa repensar l’avaluació dels aprenentatges de l’alumnat a través de dues estratègies. La primera és prioritzar l’avaluació formadora a través d’un
  feedback de qualitat que focalitzi en allò que l’alumne ha fet bé i de quina manera pot millorar. El feedback ha de ser clar, regular i a temps. Sovint és individual, però també es poden preveure sessions grupals i hem de considerar les eines de feedback integrades en la majoria de plataformes que usen els centres com Google Classroom o Moodle. La segona estratègia és basar l’avaluació en la creació, és a dir, en les produccions de l’alumnat, tot focalitzant més en el procés de creació que no pas en el producte final."[^serarols]
 
+"El darrer aspecte relacionat amb la comunicació és la dualitat entre la sincronia i l’asincronia. Un sistema de comunicació basat en la sincronia és insostenible a través d’eines com Zoom, Meet, Teams o Skype, requereix més planificació, més infraestructura tecnològica i pot exercir més pressió en els usuaris, per la qual cosa cal reservar els moments síncrons per a qüestions concretes de seguiment emocional, donar feedback personalitzat, treball en petits grups autònoms o per activitats concretes que siguin realment interactives i motivadores."[^serarols].
+
 Avaluació individual amb retroacció individualitzada i, d'altra banda, avaluació general.
+
+Quant el seguiment de l'estudiant, el projecte ADA[^ada] recollit al PEC l'IOC introdueix aquelles pràctiques associades a la disciplina del *learning analytics* com a mesura de *tracejar* les dades (permeses) dels estudiants
+
+[^ada]: *Anàlisi de Dades Acadèmiques* és un "projecte començat el curs 2016-17 amb l’anàlisi dels resultats obtinguts en els estudis d’FP. Més endavant s’hi han anat incorporant progressivament les dades de la resta d’estudis: GES, EOI i, finalment, batxillerat i PACFGS", PEC, p. 11-12.
+
 
 ## Objectius
 
@@ -272,7 +290,7 @@ El desenvolupament conceptual d'aquests tres eixos d'actuacions definiran els se
        * *Podcast* dels materials d'estudi que, a banda de la seva portabilitat, representin una alternativa d'estudi per aquells estudiants amb dificultats d'aprenentatge com la dislexia o problemes de visió parcial o total.
 #. **Disseny d'activitats d'aprenentatge**:
    #. <!-- TODO: Cal reescriure aquest ítem --> **Contextualització**: emmarcar-la en la realitat, en una necessitat, justificar-la amb relació a un fet o situació real o imaginada, un fet social, actual o bé connectar-la amb algun aspecte o contingut clau de la matèria que doni sentit a l’activitat.
-
+#. **Disseny d'actuacions de comunicació bicròniques**:
 #. **Avaluació per competències**:
 #. **Seguiment de l'estudiant**:
 

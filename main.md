@@ -270,7 +270,7 @@ digraph mygraph {
   "Actuacions sincròniques"->"Sistema de missatgeria instantània\nVídeoconferències\n..." [label=" Immediatesa\nSocialització\nParticipació\n",fontcolor="#00aeef",fontsize=5,fillcolor=white,arrowhead=none,fontname=Helvetica];
 }
 ```
-Qüestions associades a l'explicació general de la matèria, orientacions i resolució de dubtes sobre la realització de les activitats avaluables, explicacions complementàries, disseny dels exàmens... encaixarien com a actuacions asíncrones en el cos del dissseny asíncron de l'aula sense que, per aquest motiu, representes un greuge o impacte negatiu en la flexibilitat i autonomia dels estudiants[^argument-bichronous]. Dit d'una altra manera, trobar un equilibri que no acabi per "estressar" la naturalessa asíncrona de les aules i, per tant, acabi per representar més una dificultat afegida que no pas una avantatge.
+Qüestions associades a l'explicació general de la matèria, orientacions i resolució de dubtes sobre la realització de les activitats avaluables, explicacions complementàries, disseny dels exàmens... encaixarien com a actuacions asíncrones en el cos del dissseny asíncron de l'aula sense que, per aquest motiu, representes un greuge o impacte negatiu en la flexibilitat i autonomia dels estudiants[^argument-bichronous]. Dit d'una altra manera, trobar un equilibri que no acabi per "estressar" la naturalessa asíncrona de les aules i, per tant, acabi per representar més una dificultat afegida que no pas una avantatge per als alumnes.
 
 Aquest sistema bicrònic de l'aprenentatge no és sinó una recreació del que plataformes socials com [Discord](https://discord.com/) proposen amb èxit als seus usuaris: una barreja intel·ligent de fòrums participatius (asincronia) amb l'oportunitat que els usuaris puguin crear espais de comunicació síncrona (retransmissió en directe, videoconferències o *audio rooms*) de manera àgil i immediata.
 
@@ -280,23 +280,23 @@ Aquest sistema bicrònic de l'aprenentatge no és sinó una recreació del que p
 
 ### Eix d'avaluació i seguiment de l'aprenentatge
 
-Avaluació de l'estudiant en sintonia amb el plantejament anterior que, en definitiva, potencii l'aprenentatge i les competències dels estudiants.
+L'avaluació continuada forma part del grup dels principis pedagògics del PEC de l'IOC: s'interpreta com "una eina que potencia l'autoregulació de l'alumne, proporcionant informació sobre el seu procés d'aprenentatge"[^pec-avaluacio-ioc]. La informació que reben els estudiants al llarg del curs, en la forma de correcció o **feedback** (retroacció) del professorat, serà un dels elements clau en l'assoliment dels objectius i competències definides al currículum en el marc d'un disseny d'aula enterament asíncron; l'*autoregulació*, juntament amb l'*autonomia* i la *flexibilitat*, defineix l'ideari dels estudis *a distància* de l'IOC.
 
-"Aquest plantejament suposa repensar l’avaluació dels aprenentatges de l’alumnat a través de dues estratègies. La primera és prioritzar l’avaluació formadora a través d’un
- feedback de qualitat que focalitzi en allò que l’alumne ha fet bé i de quina manera pot millorar. El feedback ha de ser clar, regular i a temps. Sovint és individual, però també es poden preveure sessions grupals i hem de considerar les eines de feedback integrades en la majoria de plataformes que usen els centres com Google Classroom o Moodle. La segona estratègia és basar l’avaluació en la creació, és a dir, en les produccions de l’alumnat, tot focalitzant més en el procés de creació que no pas en el producte final."[^serarols]
+Si el **feedback** serveix tant a l'alumne per saber que ha fet bé i de quina manera pot millorar i, tanmateix, al professorat a saber que ha après, cal tenir-ne present aquelles estratègies que ens permetin trobar un equilibri en donar una resposta de qualitat i "les possibilitats de fer-ho de manera àgil"[^carme-duran], ja que, a vegades, es presenten escenaris poc favorables com, per exemple, un nombre elevat d'estudiants a l'aula, el perfil heterogeni d'estudiants o la conciliació entre el grau d'exigència de la tasca correctora dels col·laboradors i la seva remuneració:
 
-"El darrer aspecte relacionat amb la comunicació és la dualitat entre la sincronia i l’asincronia. Un sistema de comunicació basat en la sincronia és insostenible a través d’eines com Zoom, Meet, Teams o Skype, requereix més planificació, més infraestructura tecnològica i pot exercir més pressió en els usuaris, per la qual cosa cal reservar els moments síncrons per a qüestions concretes de seguiment emocional, donar feedback personalitzat, treball en petits grups autònoms o per activitats concretes que siguin realment interactives i motivadores."[^serarols].
+* La **planificació** dels criteris d'avaluació relacionats amb els objectius d'aprenentatge.
+* Les diferents **tipologies de retroacció** segons l'activitat: des de les correccions automàtiques o basades en escales (qüestionaris o fòrums) a manuals (tasques o preguntes obertes) passant per les rúbriques o guies d'avaluació.
+* Les retroaccions manuals acostumen a ser **individuals**, però també tindria cabuda les **sessions d'avaluació grupals** en un format asíncron (enregistrament d'un vídeo valorant els diferents treballs lliurats) o com a proposta d'una sessió síncrona.
+* Ús de diferents **formats** de la retroacció manual. La retroacció no s'ha de limitar únicament a la redacció d'un text, pot ser un vídeo (en el context de la modalitat d'arts, matèries com Dibuix artístic o tècnic, la correcció dels treballs dels estudiants a través de vídeos resulta més que imprescindible), un àudio.
+* Animar l'estudiant a **compartir aquells dubtes** relacionats amb la realització de les activitats o la comprensió dels recursos pot resultar un criteri actiu d'avaluació general durant el procés d'aprenentatge, fet que exigeix, per una banda, una resposta ràpida i contextualitzada perquè permeti, per una banda, l'estudiant a avançar i, d'altra banda, aprofitar l'ocasió de la resposta per proporcionar indicacions en clau de recordatori o d'ampliació.
 
-Per això, l’avaluació està a la cruïlla, és la pedra angular del canvi en educació i orienta el currículum, per la qual cosa podria considerar-se el punt de partida, i no d’arribada, dels canvis pedagògics. En aquest sentit, una avaluació per competències:
+[^pec-avaluacio-ioc]: PEC. p.8
 
-* ha d’estar dissenyada en relació amb els resultats d’aprenentatge buscats.
-* ser planificada i coherent amb la metodologia emprada.
-* tenir criteris rellevants i transparents.
-* centrar-se en un procés i ser participada pels estudiants.
-* estar acompanyada de feedback.
+[^carme-duran]: Duran, Carme, *Correccions i feedback en l'educació en línia*, [Idees en línia](https://sites.google.com/ioc.cat/ideesenlinia/avaluaci%C3%B3-cont%C3%ADnua-i-final?authuser=0), 2020.
 
+>"Aquest plantejament suposa repensar l’avaluació dels aprenentatges de l’alumnat a través de dues estratègies. La primera és prioritzar l’avaluació formadora a través d’un feedback de qualitat que focalitzi en allò que l’alumne ha fet bé i de quina manera pot millorar. El feedback ha de ser clar, regular i a temps. Sovint és individual, però també es poden preveure sessions grupals i hem de considerar les eines de feedback integrades en la majoria de plataformes que usen els centres com Google Classroom o Moodle. La segona estratègia és basar l’avaluació en la creació, és a dir, en les produccions de l’alumnat, tot focalitzant més en el procés de creació que no pas en el producte final."[^serarols]
 
-Avaluació individual amb retroacció individualitzada i, d'altra banda, avaluació general.
+Una de les amenaçes associades als feedbacks és la manca d'aplicació per part de l'estudiant en la realització de les activitats.
 
 Quant el seguiment de l'estudiant, el projecte ADA[^ada] recollit al PEC l'IOC introdueix aquelles pràctiques associades a la disciplina del *learning analytics* com a mesura de *tracejar* les dades (permeses) dels estudiants
 

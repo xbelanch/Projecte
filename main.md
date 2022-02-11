@@ -252,13 +252,33 @@ En certa manera, el dèficit de comunicació síncrona a entorns d'aprenentatge 
 
 [^email_overload_already]: [Email overload already](https://www.reddit.com/r/Professors/comments/ikk85e/email_overload_already/), entrada de subreddit r/Professors del 2021.
 
-Com he intentat defensar al principi del document, crec que és cabdal en la pràctica docent a l'IOC la introducció de pràctiques de comunicació síncrones que redueixin l'impacte que significa, per una banda, l'ús síncron de les comunicacions asíncrones així com també incorporar els beneficis i avantatges d'actuacions síncrones a les aules, és a dir, una incorporació equilibrada de diferents estràtegies de comunicació síncrona/asíncrona amb l'estudiant que representin un pont entre les activitats i els recursos d'aprenentatge sense que això representi un greuge o detriment del disseny d'aula asincròn. És a dir, la barreja de l’aprenentatge síncron i asíncron amb el que es coneix com a **aprenentatge bicrònic**[^bichronous].
+Com he intentat defensar al principi del document, crec que és cabdal en la pràctica docent a l'IOC la introducció de pràctiques de comunicació síncrones que redueixin l'impacte que significa, per una banda, l'ús síncron de les comunicacions asíncrones així com també incorporar els beneficis i avantatges d'actuacions síncrones a les aules, és a dir, una incorporació equilibrada de diferents estràtegies de comunicació síncrona/asíncrona amb l'estudiant que representin un pont entre les activitats i els recursos d'aprenentatge sense que això representi un greuge o detriment del disseny d'aula asincròn. És a dir, la barreja de l’aprenentatge síncron i asíncron amb el que es coneix com a **aprenentatge bicrònic** (*bichronous online learning*)[^bichronous]. L'objectiu principal és proporcionar als estudiants l'oportunitat de participar en determinades sessions o activitats síncrones al llarg de la seqüència asíncrona dels recursos i activitats disponibles a l'aula. La definició, objectius, nombre i calendari de les sessions i activitats síncrones dependran tant de la matèria, nombre d'estudiants i nombre de col·laboradors, fet que exigeix una programció  i informació als estudiants a l'inici de curs.
 
-[^bichronous]: *Bichronous Online Learning: Blending Asynchronous and Synchronous Online Learning*, Florence Martin, Drew Polly and Albert Ritzhaupt Published: Tuesday, September 8, 2020.
+
+```{.graphviz dpi=300 format=PNG caption="Model conceptual de l'aprenentatge bicrònic"}
+digraph mygraph {
+  node [shape=record,style=filled,fillcolor="#efefef",fontname=Helvetica,fontsize=5,fontcolor="#2b2b2b",height=0.05,width=0.05,penwidth=0];
+  edge [arrowhead=normal,penwidth=0.35,arrowsize=0.35,len=0.15,color="#bfbfbf"];
+  root [label ="Aprenentatge bicrònic"];
+  1 [shape=point,penwidth=0,height=0, width=0];
+  root->1 [ label=" es concreta en la barreja de",fontcolor="#00aeef",fontsize=5,fillcolor=white,arrowhead=none,fontname=Helvetica];
+  1->"Actuacions asincròniques";
+  1->"Actuacions sincròniques";
+  2 [arrowhead=none,shape=point,penwidth=0,height=0, width=0];
+  3 [arrowhead=none,shape=point,penwidth=0,height=0, width=0];
+  "Actuacions asincròniques"->"Correu intern\nFòrums\nVídeos\nEnquestes\nPresentacions\nPodcasts\nQüestionaris\nTasques\nTaulers de notícies\n..." [label=" Flexibilitat\nAutonomia\nAccès permanent",fontcolor="#00aeef",fontsize=5,fillcolor=white,arrowhead=none,fontname=Helvetica];
+  "Actuacions sincròniques"->"Sistema de missatgeria instantània\nVídeoconferències\n..." [label=" Immediatesa\nSocialització\nParticipació\n",fontcolor="#00aeef",fontsize=5,fillcolor=white,arrowhead=none,fontname=Helvetica];
+}
+```
+Qüestions associades a l'explicació general de la matèria, orientacions i resolució de dubtes sobre la realització de les activitats avaluables, explicacions complementàries, disseny dels exàmens... encaixarien com a actuacions asíncrones en el cos del dissseny asíncron de l'aula sense que, per aquest motiu, representes un greuge o impacte negatiu en la flexibilitat i autonomia dels estudiants[^argument-bichronous]. Dit d'una altra manera, trobar un equilibri que no acabi per "estressar" la naturalessa asíncrona de les aules i, per tant, acabi per representar més una dificultat afegida que no pas una avantatge.
+
+Aquest sistema bicrònic de l'aprenentatge no és sinó una recreació del que plataformes socials com [Discord](https://discord.com/) proposen amb èxit als seus usuaris: una barreja intel·ligent de fòrums participatius (asincronia) amb l'oportunitat que els usuaris puguin crear espais de comunicació síncrona (retransmissió en directe, videoconferències o *audio rooms*) de manera àgil i immediata.
+
+[^bichronous]: *Bichronous Online Learning: Blending Asynchronous and Synchronous Online Learning*, Florence Martin, Drew Polly and Albert Ritzhaupt Published: Tuesday, September 8, 2020: [https://er.educause.edu/articles/2020/9/bichronous-online-learning-blending-asynchronous-and-synchronous-online-learning](https://er.educause.edu/articles/2020/9/bichronous-online-learning-blending-asynchronous-and-synchronous-online-learning)
+
+[^argument-bichronous]: Es podria argumentar en contra d'aquestes actuacions síncrones el greuge comparatiu envers aquells estudiants que, per motius personals o professionals, no tinguessin l'opció d'assistir-hi. Sobre això es podria contrargumentar que totes les sessions síncrones són susceptibles de ser enregistrades amb el permís explícit dels assistents i, d'altra banda, el fet que estiguin programades al calendari de l'aula des de l'inici de curs, l'estudiant podria plantejar, encara que no assistís finalment, tots aquells dubtes o qüestions relacionades amb la temàtica de la sessió síncrona.
 
 ### Eix d'avaluació i seguiment de l'aprenentatge
-
-// TODO: Falta acabar aquesta secció
 
 Avaluació de l'estudiant en sintonia amb el plantejament anterior que, en definitiva, potencii l'aprenentatge i les competències dels estudiants.
 
@@ -266,6 +286,15 @@ Avaluació de l'estudiant en sintonia amb el plantejament anterior que, en defin
  feedback de qualitat que focalitzi en allò que l’alumne ha fet bé i de quina manera pot millorar. El feedback ha de ser clar, regular i a temps. Sovint és individual, però també es poden preveure sessions grupals i hem de considerar les eines de feedback integrades en la majoria de plataformes que usen els centres com Google Classroom o Moodle. La segona estratègia és basar l’avaluació en la creació, és a dir, en les produccions de l’alumnat, tot focalitzant més en el procés de creació que no pas en el producte final."[^serarols]
 
 "El darrer aspecte relacionat amb la comunicació és la dualitat entre la sincronia i l’asincronia. Un sistema de comunicació basat en la sincronia és insostenible a través d’eines com Zoom, Meet, Teams o Skype, requereix més planificació, més infraestructura tecnològica i pot exercir més pressió en els usuaris, per la qual cosa cal reservar els moments síncrons per a qüestions concretes de seguiment emocional, donar feedback personalitzat, treball en petits grups autònoms o per activitats concretes que siguin realment interactives i motivadores."[^serarols].
+
+Per això, l’avaluació està a la cruïlla, és la pedra angular del canvi en educació i orienta el currículum, per la qual cosa podria considerar-se el punt de partida, i no d’arribada, dels canvis pedagògics. En aquest sentit, una avaluació per competències:
+
+* ha d’estar dissenyada en relació amb els resultats d’aprenentatge buscats.
+* ser planificada i coherent amb la metodologia emprada.
+* tenir criteris rellevants i transparents.
+* centrar-se en un procés i ser participada pels estudiants.
+* estar acompanyada de feedback.
+
 
 Avaluació individual amb retroacció individualitzada i, d'altra banda, avaluació general.
 
@@ -276,7 +305,7 @@ Quant el seguiment de l'estudiant, el projecte ADA[^ada] recollit al PEC l'IOC i
 
 ## Objectius
 
-El desenvolupament conceptual d'aquests tres eixos d'actuacions definiran els següents objectius a concretar en un calendari de quatre anys:
+El desenvolupament conceptual d'aquests tres eixos d'actuacions definiran l'aplicació dels següents objectius:
 
 #. **Eix de publicació dels recursos d'aprenentatge**:
    #. **Curació del recursos d'aprenentatge**:

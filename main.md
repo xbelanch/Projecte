@@ -290,9 +290,15 @@ Si el **feedback** serveix tant a l'alumne per saber que ha fet bé i de quina m
 * Ús de diferents **formats** de la retroacció manual. La retroacció no s'ha de limitar únicament a la redacció d'un text, pot ser un vídeo (en el context de la modalitat d'arts, matèries com Dibuix artístic o tècnic, la correcció dels treballs dels estudiants a través de vídeos resulta més que imprescindible), un àudio.
 * Animar l'estudiant a **compartir aquells dubtes** relacionats amb la realització de les activitats o la comprensió dels recursos pot resultar un criteri actiu d'avaluació general durant el procés d'aprenentatge, fet que exigeix, per una banda, una resposta ràpida i contextualitzada perquè permeti, per una banda, l'estudiant a avançar i, d'altra banda, aprofitar l'ocasió de la resposta per proporcionar indicacions en clau de recordatori o d'ampliació.
 
+D'altra banda, conscient de la publicació[^batxillerat-nova-ordenacio] de l'esborrany de la futura ordenació dels ensenyaments de batxillerat, l'enfocament competencial i orientadora dels seus principis pedagògics definirà, no només la "construcció d'uns itineraris flexibles"  de cadascuna de les matèries sinó la manera de com dissenyar les activitats
+
+
 [^pec-avaluacio-ioc]: PEC. p.8
 
 [^carme-duran]: Duran, Carme, *Correccions i feedback en l'educació en línia*, [Idees en línia](https://sites.google.com/ioc.cat/ideesenlinia/avaluaci%C3%B3-cont%C3%ADnua-i-final?authuser=0), 2020.
+
+[^batxillerat-nova-ordenacio]: *El batxillerat general, la nova modalitat que oferiran una vintena de centres al setembre*, 11/02/2022, TV3: [https://www.ccma.cat/324/el-batxillerat-general-la-nova-modalitat-que-oferiran-una-vintena-dinstituts-al-setembre/noticia/3145371/](https://www.ccma.cat/324/el-batxillerat-general-la-nova-modalitat-que-oferiran-una-vintena-dinstituts-al-setembre/noticia/3145371/)
+
 
 >"Aquest plantejament suposa repensar l’avaluació dels aprenentatges de l’alumnat a través de dues estratègies. La primera és prioritzar l’avaluació formadora a través d’un feedback de qualitat que focalitzi en allò que l’alumne ha fet bé i de quina manera pot millorar. El feedback ha de ser clar, regular i a temps. Sovint és individual, però també es poden preveure sessions grupals i hem de considerar les eines de feedback integrades en la majoria de plataformes que usen els centres com Google Classroom o Moodle. La segona estratègia és basar l’avaluació en la creació, és a dir, en les produccions de l’alumnat, tot focalitzant més en el procés de creació que no pas en el producte final."[^serarols]
 

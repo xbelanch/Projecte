@@ -175,7 +175,7 @@ Dins de l'oferta educativa de l'IOC, el Batxillerat a l'IOC, antic ICESD, presen
 
 <!-- En els estudis del **Batxillerat artístic de l'IOC**, aquesta doble actuació té un alt valor en quant a que, a diferència de l'oferta presencial d'aquesta modalitat fa que, per una banda, el nombre d'estudiants visitants ja sigui el majoritari i, d'altra banda, les característiques pròpies del currículum poden ser desenvolupades en consonància amb l'assoliment de les competències digitals dels estudiants amb propostes on la cultura d'Interent siguin predominants en el disseny de les activitats. -->
 
-Una altra factor de complexitat és la necessitat del professorat col·laborador que, en en el marc dels estudis de Batxillerat, condiciona el disseny o propostes metodologiques a l'aula (TODO: incloure normativa del decret). En primer lloc,...
+Una altra factor de complexitat és la necessitat del **professorat col·laborador** que, en en el marc dels estudis de Batxillerat, condiciona el disseny o propostes metodologiques a l'aula (TODO: incloure normativa del decret). En primer lloc,...
 
 // TODO: Falta acabar aquesta secció
 
@@ -191,9 +191,9 @@ Una altra factor de complexitat és la necessitat del professorat col·laborador
 
 Com definir un projecte davant dels reptes que es deriven de les dues grans qüestions anteriors? Penso que la **concreció de tres eixos d'actuacions** poden ajudar a representar un impacte significatiu en la millora de l'experiència d'aprenentatge dels estudiants davant del repte que els hi comporta *estudiar davant d'una pantalla*[^Studying-on-a-screen] les matèries de la modalitat d'Arts del Batxillerat de l'IOC a dia d'avui:
 
-* Eix de disseny dels recursos i activitats d'aprenentatge.
-* Eix d'estratègies de comunicació híbrides: l'aprenentatge bicrònic.
-* Eix d'avaluació i seguiment.
+* Eix de creació i publicació dels recursos i materials d'aprenentatge.
+* Eix d'estratègies de comunicació híbrides: l'aprenentatge *bicrònic*.
+* Eix d'avaluació i seguiment de l'estudiantat.
 
 [^Studying-on-a-screen]: Recomano la lectura de la pàgina [Studying on a screen](https://help.open.ac.uk/studying-on-a-screen) del [Help Center](https://help.open.ac.uk/) de l'Open University.
 
@@ -320,23 +320,28 @@ Una altra estratègia de treball complementària al **seguiment** del grau d'apo
 
 ## Objectius
 
-El desenvolupament conceptual d'aquests tres eixos d'actuacions definiran l'aplicació dels següents objectius:
+El marc conceptal dels tres eixos estràtegics d'actuació servirà per concretar els següents objectius de treball a l'IOC:
 
-#. **Eix de publicació dels recursos d'aprenentatge**:
-   #. **Curació del recursos d'aprenentatge**:
-   #. Proporcionar un ventall ampli d'**alternatives de formats dels recursos d'aprenentatge** de l'aula, és a dir:
-       * Format web optimitzada per a la lectura amb mòbil.
-       * Format PDF per a situacions de manca de connectivitat i, per tant, un aprenentatge *offline*. Han d'estar optimitzats no únicament per a la seva impressió sinó també la maquetació, disseny i
-       * eBooks o format ePub (*Electronic Publication*) per als e-readers i, per tant, per aquella activitat d'aprenentatge *offline*.
-       * Subtítols i transcripció de vídeos (incloure el format `.srt`).
-       * Format [DAISY](https://daisy.org/) per assegurar l'accessibilitat de qualsevol publicació digital.
-       * Format Word o LibreOffice: aquests formats editables permeten no només l'estudi *offline* sinó també la possibilitat d'anotacions per part de l'estudiant, així com també per aquells dispositius de lectura com el [JAWS screen reader](https://www.freedomscientific.com/products/software/jaws/). Aquests dos formats també permeten als estudiants la personalització del cos de lletra, colors i interlineats amb l'objectiu que els hi faciliti la lectura del cos del document.
-       * *Podcast* dels materials d'estudi que, a banda de la seva portabilitat, representin una alternativa d'estudi per aquells estudiants amb dificultats d'aprenentatge com la dislexia o problemes de visió parcial o total.
-#. **Disseny d'activitats d'aprenentatge**:
-   #. <!-- TODO: Cal reescriure aquest ítem --> **Contextualització**: emmarcar-la en la realitat, en una necessitat, justificar-la amb relació a un fet o situació real o imaginada, un fet social, actual o bé connectar-la amb algun aspecte o contingut clau de la matèria que doni sentit a l’activitat.
-#. **Disseny d'actuacions de comunicació bicròniques**:
-#. **Avaluació per competències**:
-#. **Seguiment de l'estudiant**:
+#. **Eix de creació i publicació dels recursos i materials d'aprenentatge**:
+   #. Tal com succeeix al projecte [Miniops](https://miniops.ioc.cat), els recursos i materials d'aprenentatge haurien d'estar en obert permanentment a Internet.
+   #. Curació de recursos de qualitat disponibles a Internet de llicències lliures (per exemple, [Creative Commons](https://creativecommons.org/licenses/?lang=ca) ) amb la responsabilitat de traduïr-los o facilitar subtítols i transcripcions en català en el cas de vídeos i altres productes audiovisuals.
+   #. Cercar i anàlitzar exemples i referències a Internet que ajudin a repensar, millorar i actualitzar en el temps els recursos i materials d'aprenentatge de les matèries de la modalitat d'Arts.
+   #. Proporcionar un ventall ampli d'**alternatives de formats** dels diferents recursos i materials d'aprenentatge que faciliti l'estudiant tant l'accès (amb independència del dispositiu), una lectura òptima i, finalment, donar resposta en termes d'accessibilitat.
+#. **Eix d'estratègies de comunicació híbrides: l'aprenentatge *bicrònic***:
+   #. Planificar actuacions estràtegiques de comunicació síncrona a l'aula:
+      * El nombre d'aquestes no hauria de significar un impacte negatiu en el disseny assíncron de l'aula.
+      * Facilitar alternatives als estudiants que no puguin assistir-hi com, per una banda, proposar exmples, preguntes, dubtes o qüestions que es comentaran obertament a la sessió síncrona i, d'altra banda, la publicació de la sessió síncrona com a **VoD**[^VoD] de l'aula.
+   #. Incorporar estratègies d'amplificació de la comunicació asíncrona pròpies de la cultura d'Internet.
+   #. Fer un ús adequat dels mitjans de comunicació asíncrona de l'aula i, per tant, evitar transformar el correu intern del l'EVA de l'IOC en una missatgeria instantània o els fòrums de debat en xats.
+   #. Valorar la possible introducció d'altres estratègies de comunicació síncrona que ajudin a evitar la desnaturalització de la comunicació asíncrona de les aules.
+#. **Eix d'avaluació i seguiment de l'estudiantat**:
+
+<!-- #. **Disseny d'activitats d'aprenentatge**: -->
+<!--    #. <\!-- TODO: Cal reescriure aquest ítem -\-> **Contextualització**: emmarcar-la en la realitat, en una necessitat, justificar-la amb relació a un fet o situació real o imaginada, un fet social, actual o bé connectar-la amb algun aspecte o contingut clau de la matèria que doni sentit a l’activitat. -->
+
+
+[^VoD]: El concepte de *Video on Demand* és, a dir, l'arxiu de retransmissions en directe és, des de fa uns anys, una de les estratègies clau en l'afavoriment de projecció dels canals a serveis com [Twitch](https://help.twitch.tv/s/article/video-on-demand?language=en_US) o [Youtube Live](https://support.google.com/youtube/answer/6247592?hl=en).
+
 
 # Exemplificació d'activitat d'aprenentatge: *Tots els barrocs del món*
 
@@ -428,6 +433,20 @@ S'inclou, per una banda, una **pauta de comprovació** a l'enunciat de l'activit
 A banda de la qualificació de la tasca, l'estudiant rebrà una valoracióx individualitzada segons la qualitat del treball lliurat, però també amb la finalitat que li serveixi de referència per a la realització de futures activitats de la matèria.
 
 Finalment, com a complement de la retroacció individual de la tasca, seria desitjable una **revisió del conjunt** de tasques lliurades mitjançant l'enregistrament d'un vídeo on el professorat responsable analitza i avalua diferents treballs publicats a la tasca. S'evita, per tant, altres actuacions similars on l'estudiant comparteix el seu treball a un fòrum a l'aula.
+
+
+<!-- #. **Eix de publicació dels recursos d'aprenentatge**: -->
+<!--    #. **Curació del recursos d'aprenentatge**: -->
+<!--    #. Proporcionar un ventall ampli d'**alternatives de formats dels recursos d'aprenentatge** de l'aula, és a dir: -->
+<!--        * Format web optimitzada per a la lectura amb mòbil. -->
+<!--        * Format PDF per a situacions de manca de connectivitat i, per tant, un aprenentatge *offline*. Han d'estar optimitzats no únicament per a la seva impressió sinó també la maquetació, disseny i -->
+<!--        * eBooks o format ePub (*Electronic Publication*) per als e-readers i, per tant, per aquella activitat d'aprenentatge *offline*. -->
+<!--        * Subtítols i transcripció de vídeos (incloure el format `.srt`). -->
+<!--        * Format [DAISY](https://daisy.org/) per assegurar l'accessibilitat de qualsevol publicació digital. -->
+<!--        * Format Word o LibreOffice: aquests formats editables permeten no només l'estudi *offline* sinó també la possibilitat d'anotacions per part de l'estudiant, així com també per aquells dispositius de lectura com el [JAWS screen reader](https://www.freedomscientific.com/products/software/jaws/). Aquests dos formats també permeten als estudiants la personalització del cos de lletra, colors i interlineats amb l'objectiu que els hi faciliti la lectura del cos del document. -->
+<!--        * *Podcast* dels materials d'estudi que, a banda de la seva portabilitat, representin una alternativa d'estudi per aquells estudiants amb dificultats d'aprenentatge com la dislexia o problemes de visió parcial o total. -->
+
+
 
 <!-- Aquesta part ha d'anar directament a la proposta de projecte
 

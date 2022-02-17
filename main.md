@@ -347,6 +347,8 @@ El marc conceptal dels tres eixos estràtegics d'actuació servirà per concreta
    #. Valorar la possible introducció d'altres estratègies de comunicació síncrona que ajudin a evitar la desnaturalització de la comunicació asíncrona de les aules.
 #. **Eix d'estratègies d'avaluació formativa i seguiment de l'aprenentatge**:
    #. Dissenyar activitats on el trinomi recerca/reflexió/creació exigeixin de l'alumne un aprenentatge no limitat a la rèplica dels recursos o materials d'aprenentatge.
+   #. Proposar activitats de diferents tipologia de l'EVA segons les diferents fases de l'avaluació de l'aprenentatge (inicial, formativa, sumativa). Per exemple, l'ús dels fòrums com a activitat preliminar que interpel·li el conjunt d'estudiants a qüestionar els coneixements previs sobre una determinada temàtica en base a un referent informatiu que actui com a objecte de debat o controvèrsia.
+   #. Proposar temàtiques d'activitats que, en la mesura del possible, s'enmarquin en una realitat propera, actual, quotidiana perquè li atorgui un sentit, no només dins del marc teòric de la matèria sinó també en allò que els estudiants trobin una possible vinculació emocional,
    #. Fer-ne ús d'aquelles tipologies d'activitats de l'EVA de l'IOC (Moodle) on el **feedback** sigui clau en el procés de l'avaluació formativa de l'estudiant.
    #. Fer-ne ús de diferents formats de **feedbacks** segons el plantejament o disseny de l'activitat (text, àudio, vídeo...).
    #. Explorar les possibiltats i avantatges de la comunicació bicrònica per realitzar **feedbacks** personals com grupals.
@@ -393,7 +395,9 @@ Explico a continuació un disseny d'activitat on incorporo, conjuntament, aquell
 
 ### Contextualització
 
-Una línia de treball amb els estudiants de la modalitat d'arts del Batxillerat, coneguda com a **correspondències estilístiques**, és la de visualitzar com algunes idees artístiques associades a moments clau de la història de l'art traspassan els límits temporals fins arribar avui dia, ja sigui perquè els creadors imiten l'estil, els motius o les formes o el perquè consideren que viuen en un context sociocultural similar al del període històric. Aquestes pràctiques de reinvenció, d'apropiació, de reinterpretació dels creadors contemporanis ajudaran els estudiants, mitjançant el diàleg entre obres que participen de correspondències estilístiques i formals del passat amb el present, una millor comprensió de la complexitat del fet artístic actual (sigui aquell que permaneix silenciós en una galeria d'art contemporani com un video clip d'una cançó de *trap*) i, amb ell, les circumstàncies del context.
+Una línia de treball amb els estudiants de la modalitat d'arts del Batxillerat, coneguda com a **correspondències estilístiques**, és la de visualitzar com algunes idees artístiques associades a moments clau de la història de l'art traspassan els límits temporals fins arribar avui dia, ja sigui perquè els creadors imiten l'estil, els motius o les formes o el perquè consideren que viuen en un context sociocultural similar al del període històric. Aquestes pràctiques de reinvenció, d'apropiació, de reinterpretació dels creadors contemporanis poden resultar de gran facilitar als estudiants, mitjançant el diàleg entre obres que participen de correspondències estilístiques i formals del passat amb el present, una millor comprensió de la complexitat del fet artístic actual (sigui aquell que permaneix silenciós en una galeria d'art contemporani com un video clip d'una cançó de *trap*) i, amb ell, les circumstàncies del context que la rodeja.
+
+![Exemple de correspondències estilístiques: a l'esquerra, coberta del videojoc *The Legend of Zelda. Breath of the Wild* (2017); a la dreta, Caspar David Friedrich, *El caminant sobre el mar de boira* (1817).](./img/wanderers_zelda_friedrich.jpg)
 
 En l'itinerari cronològic dels continguts del currículum de la matèria de **Fonaments de les arts**, el Barroc històric ocupa, juntament amb el Neoclassicisme, el tram final del primer curs de la matèria. L'organització de la matèria en clau competencial permet un plantejament de més recorregut i, per tant, proposar el Barroc als estudiants no des d'una perspectiva historicista sinó com a idea artística que, com a etapa cultural sobrevinguda principalment al segle XVII, hi projecta una ombra dels seus trets estilístics i formals a moltes de les produccions o creacions actuals.
 
@@ -437,7 +441,7 @@ contextualitzar el període històric del Barroc i, per tant, establir les perti
     **Objectiu X.X**: Activitats plantejades com a reptes: "L'estil artístic del barroc encara hi és present avui dia?"
     **Objectiu X.X**: Activitats d'actualitat i crear un espai temporal o de moment compartit, per contrarestar la "distància".
 
-   #. Dissenyar una presentació de l'exposició (no és suggereix cap eina) en base a un guió que reculli una síntesi de les tres actuacions anteriors. El cos de la presentació ha d'estructurar-se en:
+   #. Dissenyar una presentació de l'exposició en base a un guió que reculli una síntesi de les tres actuacions anteriors (no es suggereix cap eina. En aquest sentit es pot aprofitar la manca d'instrucció com a excusa perquè els estudiants comparteixen experiències relacionades amb l'ús d'eines o serveis per a la creació de presentacions). El cos de la presentació ha d'estructurar-se en:
       #. Concretar del títol de l'exposició que descrigui el contingut de forma clara i precisa.
       #. Un nombre mínim de diapositives que mostrin les relacions (estelístiques o conceptuals) entre les obres actuals proposades a l'enunciat de l'activitat i aquelles obres del Barroc històric escollides per l'estudiant.
    #. Finalment, enregistrar i publicar un vídeo on defensin el plantejament de l'exposició (diàleg entre passat i actualitat) com també una conclusió personal sobre les possibles connexions entre contextos socioculturals separats en el temps.
@@ -446,12 +450,15 @@ contextualitzar el període històric del Barroc i, per tant, establir les perti
 
 ### Avaluació de l'activitat
 
-S'inclou, per una banda, una **pauta de comprovació** a l'enunciat de l'activitat amb l'objectiu que l'estudiant verifiqui que ha seguit les indicacions correctament abans de publicar la feina per avaluar. D'altra banda, s'inclouen els **criteris d'avaluació** de l'activitat en forma de rúbrica o mitjançant una escala qualitativa suficientment clara perquè l'estudiant sàpiga com se li avaluarà i qualificarà la feina.
+S'identifiquen tres actuacions avaluadores de l'activitat:
 
-A banda de la qualificació de la tasca, l'estudiant rebrà una valoracióx individualitzada segons la qualitat del treball lliurat, però també amb la finalitat que li serveixi de referència per a la realització de futures activitats de la matèria.
+* una avaluació inicial basada en la participació entre iguals on
+* una segona basada en la recollida d'informació de l'aprenentatge de l'estudiant dins del context del seu procés d'aprenentatge. Aquesta avaluació és, per tant, s'integra en el context ampli de l'assoliment competencial de la matèria i, per tant, els seus indicadors seran de caracter transversal.
+* una tercera on els estudiant aplicaran l'aprenentatge dels diferents continguts i recursos de la temàtica necessaris per a la realització de l'activitat que es proposa com a **tasca de creació**.
 
-Finalment, com a complement de la retroacció individual de la tasca, seria desitjable una **revisió del conjunt** de tasques lliurades mitjançant l'enregistrament d'un vídeo on el professorat responsable analitza i avalua diferents treballs publicats a la tasca. S'evita, per tant, altres actuacions similars on l'estudiant comparteix el seu treball a un fòrum a l'aula.
+Per tal de facilitar l'apropiació dels criteris i ponderacions de l'avaluació de la tasca, s'inclou, per una banda, una **pauta de comprovació** en el conjunt de l'enunciat de l'activitat amb la finalitat que permeti l'estudiant verificar que ha seguit correctament les indicacions, instruccions i orientacions recollides a l'enunciat abans de publicar el seu treball. D'altra banda, s'inclouen els **criteris d'avaluació** de l'activitat en forma de rúbrica o mitjançant una *guia d'avaluació* perquè l'estudiant sàpiga com se li avaluarà i qualificarà la feina. Tant la pauta de comprovació com la guia d'avaluació han de servir igualment de referència al professorat responsable o col·laborador per a la tasca d'elaboració del **feedback** individual i avaluació de la feina del estudiant.
 
+Finalment, com a addenda, es proposa una **revisió del conjunt de les tasques avaluades** perquè afavoreixi tant la reflexió com el sentit crític de l'estudiant. Aquesta revisió podria ser sincrònica, fet que contribuiria l'intercanvi d'impresions, valoracions personals, formulació de preguntes envers el conjunt de l'activitat i, en especial, el sentit i propòsit últim d'aquesta en el procés de l'aprenentatge local (el perquè de l'actualitat i vigència del Barroc) i global (l'anàlisi i comprensió transversal del fet artístic) de la matèria de Fonaments de les arts.
 
 <!-- #. **Eix de publicació dels recursos d'aprenentatge**: -->
 <!--    #. **Curació del recursos d'aprenentatge**: -->
@@ -463,8 +470,6 @@ Finalment, com a complement de la retroacció individual de la tasca, seria desi
 <!--        * Format [DAISY](https://daisy.org/) per assegurar l'accessibilitat de qualsevol publicació digital. -->
 <!--        * Format Word o LibreOffice: aquests formats editables permeten no només l'estudi *offline* sinó també la possibilitat d'anotacions per part de l'estudiant, així com també per aquells dispositius de lectura com el [JAWS screen reader](https://www.freedomscientific.com/products/software/jaws/). Aquests dos formats també permeten als estudiants la personalització del cos de lletra, colors i interlineats amb l'objectiu que els hi faciliti la lectura del cos del document. -->
 <!--        * *Podcast* dels materials d'estudi que, a banda de la seva portabilitat, representin una alternativa d'estudi per aquells estudiants amb dificultats d'aprenentatge com la dislexia o problemes de visió parcial o total. -->
-
-
 
 <!-- Aquesta part ha d'anar directament a la proposta de projecte
 

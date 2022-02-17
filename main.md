@@ -306,13 +306,15 @@ No obstant, aquesta línia de disseny d'activitats basades en un elevat grau de 
 * la **participació de col·laboradors** a l'aula i, per tant, la dificultat que representa trobar l'equilibri entre l'exigència de feedbacks de qualitat (i no robotitzats o basats en esquemes/models o sentències prefabricades) i el seu temps de dedicació vinculat a la seva remuneració.
 * la pròpia **organització del calendari** dels estudis a l'IOC també representen un obstacle important en la tasca d'avaluació formativa de l'estudiant. Un calendari uniformat basat més en la supervivència organitzativa que no pas en les necessitats metodologiques de les matèries pot acabar minant o distorsionant
 
-D'altra banda, la tasca de **seguiment** és clau en el procés de l'avaluació formativa de l'estudiant, però tampoc està exempta dels mateixos reptes que he descrit més amunt amb l'afegit de dues més que també considero importants:
+D'altra banda, la tasca de **seguiment** és clau en el procés de l'avaluació formativa de l'estudiant, però tampoc està exempta dels mateixos reptes que he descrit més amunt amb l'afegit de dues més que considero igualment importants:
 
 * De quina manera consolidem el *grau de retorn del feedback*? És a dir, quin és el grau d'**impacte del feedback en l'aprenentatge dels estudiants**? Quines estratègies o eines tenim a l'abast a l'EVA de l'IOC per verificar i validar que els estudiants fan un ús actiu de l'avaluació formativa en l'assoliment dels objectius la matèria? És l'avaluació sumativa l'únic indicador que tenim a l'abast per comprovar que l'estudiant va **autoregulant** de manera **autònoma** el seu procés d'aprenentatge no només per assolir l'avaluació sumativa sinó especialment per consolidar les competències treballades al llarg de l'avaluació formativa?
 * Les dades generades pels estudiants, permeten establir uns indicadors o mètriques que ens ajudin a avaluar el procés formatiu dels estudiants a l'aula? Quin haurien de ser aquests indicadors?
 
+Si bé són qüestions que, personalment, no trobo una resposta tancada, si m'ajuda a, com a mínim, pensar en algunes possibles estratègies:
 
-Una altra estratègia de treball complementària al **seguiment** del grau d'apoderament dels feedback per part dels estudiants seria l'ús del projecte propi de l'IOC, *Anàlisi de Dades Acadèmiques* (ADA)[^ada], que introdueix aquelles actuacions associades a la disciplina del *learning analytics* com a mesura de *tracejar* les dades (permeses) dels estudiants.
+* Tal com està plantejada la seqüència de les diferents temàtiques del projecte **miniops**, es proposaria a l'estudiant un **projecte o repte integrador** a final de semestre de tot el seu procés d'avaluació formativa i que, en definitiva, ajudés a validar l'impacte del conjunt de retroaccions en els estudiants.
+* Una altra estratègia de treball seria l'ús del servei d'*Anàlisi de Dades Acadèmiques* (ADA)[^ada], que introdueix aquelles actuacions associades a la disciplina del *learning analytics* per interpretar, segons els possibles indicadors, les dades anònimes dels estudiants i proposar l'elaboració d'un document *post-mortem* (*what went right and what went wrong*) del seguiment dels estudiants de la seva avaluació formativa.
 
 [^pec-avaluacio-ioc]: PEC. p.8
 
@@ -344,6 +346,13 @@ El marc conceptal dels tres eixos estràtegics d'actuació servirà per concreta
    #. Fer un ús adequat dels mitjans de comunicació asíncrona de l'aula i, per tant, evitar transformar el correu intern del l'EVA de l'IOC en una missatgeria instantània o els fòrums de debat en xats.
    #. Valorar la possible introducció d'altres estratègies de comunicació síncrona que ajudin a evitar la desnaturalització de la comunicació asíncrona de les aules.
 #. **Eix d'estratègies d'avaluació formativa i seguiment de l'aprenentatge**:
+   #. Dissenyar activitats on el trinomi recerca/reflexió/creació exigeixin de l'alumne un aprenentatge no limitat a la rèplica dels recursos o materials d'aprenentatge.
+   #. Fer-ne ús d'aquelles tipologies d'activitats de l'EVA de l'IOC (Moodle) on el **feedback** sigui clau en el procés de l'avaluació formativa de l'estudiant.
+   #. Fer-ne ús de diferents formats de **feedbacks** segons el plantejament o disseny de l'activitat (text, àudio, vídeo...).
+   #. Explorar les possibiltats i avantatges de la comunicació bicrònica per realitzar **feedbacks** personals com grupals.
+   #. Explorar les possibilitats d'avaluació formativa d'activitats grupals sense la intervenció o guiatge del professorat (aprendre entre iguals).
+   #. Explorar les possibilitats de la realització d'un projecte final com a indicador del seguiment i aplicació dels estudiants de les retroaccions donades al llarg del seu procés d'aprenentatge.
+   #. Elaborar document *post-mortem* en base a l'ús d'enquestes i serveis com l'ADA per avaluar la proposta d'avaluació formativa de l'aula.
 
 <!-- #. **Disseny d'activitats d'aprenentatge**: -->
 <!--    #. <\!-- TODO: Cal reescriure aquest ítem -\-> **Contextualització**: emmarcar-la en la realitat, en una necessitat, justificar-la amb relació a un fet o situació real o imaginada, un fet social, actual o bé connectar-la amb algun aspecte o contingut clau de la matèria que doni sentit a l’activitat. -->

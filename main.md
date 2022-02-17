@@ -414,6 +414,8 @@ Es proposa un temps de dedicació al voltant dels 10-15 dies en temps d'aula vir
 
 Per tant, amb la finalitat de treballar la idea de l'art del Barroc des d'una perspectiva transversal a l'aula virtual, es proposa el següent encàrrec:
 
+![Fotograma del videoclip *Velaske, yo soi guapa? (Las Meninas Trap Mix)*, obra de Christian Flores (2017)](./img/velaske_yo_soi_guapa.png)
+
 #. Cercar un recurs d'actualitat que mostri clarament influències estilístiques o referències explicites del fet artístic del Barroc històric. Aquest recurs ha de venir acompanyat d'una introducció per tal de contextualitzar-lo. Es plantejaria com a fil de debat de fòrum, alternativament, com a vídeo d'introducció de la temàtica de l'aula. Un exemple de recurs podria ser el video clip de trap [Velaske, yo soi guapa? (Las Meninas Trap Mix), 2017](https://www.youtube.com/watch?v=Il6p2-40-F0), amb més d'onze milions de visites. Si es proposa un debat d'inici, s'interpel·la a l'estudiant a participar-hi a partir de qüestions com:
    * Heu vist en persona les Meninas de Velázquez? Si és afirmatiu, què recordes del quadre? quins elements del quadre et van cridar més l'atenció?
    * Què creus que podria significar el següent fragment de la lletra del trap: *Pero escuche un secreto: yo la estoy pintando a usted ¿Viste que en el cuadro se está pintando un cuadro? Po' en realidad, señora, yo la 'toy pintando a usted (¿¡cómo!?)*.

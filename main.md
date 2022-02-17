@@ -193,7 +193,7 @@ Com definir un projecte davant dels reptes que es deriven de les dues grans qüe
 
 * Eix de creació i publicació dels recursos i materials d'aprenentatge.
 * Eix d'estratègies de comunicació híbrides: l'aprenentatge *bicrònic*.
-* Eix d'avaluació i seguiment de l'estudiantat.
+* Eix d'estratègies d'avaluació formativa i seguiment de l'aprenentatge.
 
 [^Studying-on-a-screen]: Recomano la lectura de la pàgina [Studying on a screen](https://help.open.ac.uk/studying-on-a-screen) del [Help Center](https://help.open.ac.uk/) de l'Open University.
 
@@ -278,7 +278,7 @@ Aquest sistema bicrònic de l'aprenentatge no és sinó una recreació del que p
 
 [^argument-bichronous]: Es podria argumentar en contra d'aquestes actuacions síncrones el greuge comparatiu envers aquells estudiants que, per motius personals o professionals, no tinguessin l'opció d'assistir-hi. Sobre això es podria contrargumentar que totes les sessions síncrones són susceptibles de ser enregistrades amb el permís explícit dels assistents i, d'altra banda, el fet que estiguin programades al calendari de l'aula des de l'inici de curs, l'estudiant podria plantejar, encara que no assistís finalment, tots aquells dubtes o qüestions relacionades amb la temàtica de la sessió síncrona.
 
-### Eix d'avaluació i seguiment de l'aprenentatge
+### Eix d'estratègies d'avaluació formativa i seguiment de l'aprenentatge
 
 L'avaluació forma part del grup dels principis pedagògics del PEC de l'IOC: s'interpreta com "una eina que potencia l'autoregulació de l'alumne, proporcionant informació sobre el seu procés d'aprenentatge"[^pec-avaluacio-ioc]. La informació que reben els estudiants al llarg del curs, en la forma de correcció o **feedback** (retroacció) del professorat, serà un dels elements clau en l'assoliment dels objectius i competències definides al currículum en el marc d'un disseny asíncron de l'aula virtual; l'*autoregulació* del procés d'aprenentatge de l'estudiant basada en l'acompanyament del professorat a través d'un **feedback** efectiu, precís i constructiu, defineix l'ideari dels estudis *a distància* de l'IOC.
 
@@ -292,23 +292,25 @@ Si el **feedback** serveix tant a l'alumne per saber que ha fet bé i de quina m
 
 D'altra banda, conscient de la publicació de l'esborrany de la futura ordenació dels ensenyaments de batxillerat[^batxillerat-nova-ordenacio], l'enfocament competencial i orientadora dels seus principis pedagògics definirà, no només la "construcció d'uns itineraris flexibles"[^nou-curriculum-batxillerat-0]  de cadascuna de les matèries sinó també la manera d'avaluar i, en conseqüència, la **redefinició del disseny de les activitats** a l'aula; una avaluació per competències passa, per tant, per un enfocament d'activitats competencials que permetin l'alumne estratègies d'adquisició de coneixement transversal que li ajudin a ser plenament autònoms davant dels reptes de "problemàtiques derivades de l'àmbit acadèmic, dels mitjans de comunicació o de la vida qüotodiana"[^nou-curriculum-batxillerat-1].
 
-Quines perfil d'activitats disponibles a l'EVA de l'IOC encaixarien millor davant d'aquest nou escenari? Recupero la importància del **feedback** com a element modelador de l'activitat. Dit d'una altra manera, caldrà potenciar aquelles activitats on l'estudiant rebi un **feedback** individual, regular i de qualitat, amb un format que correspongui amb la proposta de l'activitat (text, àudio, vídeo o, fins i tot, si escau, vídeoconferència) o, amb previsió i amb sintonia amb l'eix d'actuacions de **comunicació bicrònica**, sessions grupals que facilitin la comprensió en conjunt dels resultats o treball elaborat dels estudiants. Activitats del Moodle com:
+Quines tipologies d'activitats disponibles a l'EVA de l'IOC (Moodle) encaixarien millor davant dels (...) ? Crec que un treball d'avaluació formativa basada en el **feedback** (o retroacció) personal i de grup, tant en la seva vessant asíncrona com síncrona, ha de representar, per una banda, el referent per pensar els tipus d'activitats com, d'altra banda, l'agent modelador del disseny de les activitats. Dit d'una altra manera, caldrà potenciar aquelles activitats del procés formatiu de l'estudiant on rebi un **feedback** individual, regular i de qualitat, amb un format que correspongui amb la proposta de l'activitat (text, àudio, vídeo o, fins i tot, si escau, vídeoconferència) o, amb previsió i amb sintonia amb l'eix d'actuacions de **comunicació bicrònica**, sessions grupals que facilitin la comprensió en conjunt dels resultats o treball elaborat dels estudiants. Dins de l'oferta d'activitats disponibles al Moodle identifiquem:
 
-* les *preguntes obertes* dels qüestionaris (procuren l'aleatorietat de l'enunciat).
-* lliurament de *tasques* que interpel·li l'estudiant a un procés de recerca i creació.
+* les *preguntes obertes* dels qüestionaris que, a banda de l'exigència d'una retroacció humana sobre una automatitzada, proprorcionen la possibilitat de jugar amb l'aleatorietat de l'enunciat.
+* el lliurament de *tasques* que interpel·li l'estudiant a l'elaboració d'un producte de recerca i creació i, per tant, susceptible de lliurar un resultat que no sigui únicament un document de text.
 * el *taller per parelles* que accentua el valor de l'autoavaluació de l'estudiant així com l'adopció natural dels criteris d'avaluació de l'activitat en el moment que s'exigeix a l'estudiant l'avaluació de treballs d'altres estudiants.
 * els *fòrums d'aprendre en col·laboració*, on els estudiants hi participen i contribueixen de manera col·lectiva per ajudar-se entre iguals en la resolució d'un repte o problema plantejat a l'enunciat de l'activitat. És a dir, quan el **feedback** ja no prové únicament de la veu del professorat sinó del mateix conjunt d'estudiants.
 
-No obstant, aquesta línia de disseny d'activitats basades en un elevat grau de **personalització del feedback**, no està exenta de reptes si recupero aquelles qüestions enumerades a la secció de les **singularitats dels estudis de Batxillerat a l'IOC** d'aquest mateix document:
+No obstant, aquesta línia de disseny d'activitats basades en un elevat grau de **personalització del feedback**, planteja tot un seguit de reptes (o obstacles) que calen tenir-les present:
 
-* un excés de d'inversió de temps inassumible si considerem la relació nombre d'estudiants i temps de dedicació del feedback
-* una diversitat del perfil d'estudiant que sovint dificulta un cert grau d'homogenització de les retroaccions i, per tant, interpel·la el professorat a adaptar els feedbacks segons el destinatari (lèxic, vocabulari, estratègia de comunicació escrita...).
-* la participació de col·laboradors a l'aula i, per tant, la dificultat que representa trobar l'equilibri entre l'exigència de feedbacks de qualitat (i no robotitzats o basats en esquemes/models o sentències prefabricades) i el seu temps de dedicació vinculat a la seva remuneració.
-* la pròpia organització del calendari dels estudis a l'IOC també representen un obstacle important en la tasca d'avaluació formativa de l'estudiant. Un calendari uniformat basat més en la supervivència organitzativa que no pas en les necessitats metodologiques de les matèries pot acabar minant o distorsionant
+* l'excés de d'**inversió de temps** inassumible si considerem la relació nombre d'estudiants i temps de dedicació del feedback
+* la **diversitat i nombre d'estudiants** que pot arribar a dificultar un cert nivell d'homogenització de les retroaccions i, per tant, interpel·la el professorat a adaptar els feedbacks segons el destinatari (lèxic, vocabulari, estratègia de comunicació escrita...).
+* la **participació de col·laboradors** a l'aula i, per tant, la dificultat que representa trobar l'equilibri entre l'exigència de feedbacks de qualitat (i no robotitzats o basats en esquemes/models o sentències prefabricades) i el seu temps de dedicació vinculat a la seva remuneració.
+* la pròpia **organització del calendari** dels estudis a l'IOC també representen un obstacle important en la tasca d'avaluació formativa de l'estudiant. Un calendari uniformat basat més en la supervivència organitzativa que no pas en les necessitats metodologiques de les matèries pot acabar minant o distorsionant
 
-D'altra banda, connectada explícitament al procés d'avaluació formativa, la tasca de **seguiment** replica en gran mesura la llista anterior i que, de nou, ens interpel·la a preguntar-nos com fer un seguiment eficaç de l'avaluació formativa de l'estudiant en l'àmbit dels estudis *a distància*. Sobre això afegeixo més qüestions a la llista anterior:
+D'altra banda, la tasca de **seguiment** és clau en el procés de l'avaluació formativa de l'estudiant, però tampoc està exempta dels mateixos reptes que he descrit més amunt amb l'afegit de dues més que també considero importants:
 
-* De quina manera consolidem el *grau de retorn del feedback*? És a dir, quines estratègies tenim a l'abast en un EVA per verificar i validar que els estudiants fan ús actiu de l'avaluació formativa en l'assoliment de les competències de la matèria?
+* De quina manera consolidem el *grau de retorn del feedback*? És a dir, quin és el grau d'**impacte del feedback en l'aprenentatge dels estudiants**? Quines estratègies o eines tenim a l'abast a l'EVA de l'IOC per verificar i validar que els estudiants fan un ús actiu de l'avaluació formativa en l'assoliment dels objectius la matèria? És l'avaluació sumativa l'únic indicador que tenim a l'abast per comprovar que l'estudiant va **autoregulant** de manera **autònoma** el seu procés d'aprenentatge no només per assolir l'avaluació sumativa sinó especialment per consolidar les competències treballades al llarg de l'avaluació formativa?
+* Les dades generades pels estudiants, permeten establir uns indicadors o mètriques que ens ajudin a avaluar el procés formatiu dels estudiants a l'aula? Quin haurien de ser aquests indicadors?
+
 
 Una altra estratègia de treball complementària al **seguiment** del grau d'apoderament dels feedback per part dels estudiants seria l'ús del projecte propi de l'IOC, *Anàlisi de Dades Acadèmiques* (ADA)[^ada], que introdueix aquelles actuacions associades a la disciplina del *learning analytics* com a mesura de *tracejar* les dades (permeses) dels estudiants.
 
@@ -341,7 +343,7 @@ El marc conceptal dels tres eixos estràtegics d'actuació servirà per concreta
    #. Incorporar estratègies d'amplificació de la comunicació asíncrona pròpies de la cultura d'Internet.
    #. Fer un ús adequat dels mitjans de comunicació asíncrona de l'aula i, per tant, evitar transformar el correu intern del l'EVA de l'IOC en una missatgeria instantània o els fòrums de debat en xats.
    #. Valorar la possible introducció d'altres estratègies de comunicació síncrona que ajudin a evitar la desnaturalització de la comunicació asíncrona de les aules.
-#. **Eix d'avaluació i seguiment de l'estudiantat**:
+#. **Eix d'estratègies d'avaluació formativa i seguiment de l'aprenentatge**:
 
 <!-- #. **Disseny d'activitats d'aprenentatge**: -->
 <!--    #. <\!-- TODO: Cal reescriure aquest ítem -\-> **Contextualització**: emmarcar-la en la realitat, en una necessitat, justificar-la amb relació a un fet o situació real o imaginada, un fet social, actual o bé connectar-la amb algun aspecte o contingut clau de la matèria que doni sentit a l’activitat. -->

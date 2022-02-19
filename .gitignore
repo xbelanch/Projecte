@@ -4,3 +4,6 @@ output.pdf
 export/
 plots/
 atri/
+um.cls
+main.tex
+*.Identifier

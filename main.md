@@ -72,7 +72,7 @@ L'actual proposta de projecte comparteix la mateixa motivació i impuls: mirar d
 
 [^Studying-on-a-screen]: Recomano la lectura de la pàgina [Studying on a screen](https://help.open.ac.uk/studying-on-a-screen) del [Help Center](https://help.open.ac.uk/) de l'Open University.
 
-### Eix estratègic del disseny i publicació dels recursos d'aprenentatge
+## Eix estratègic del disseny i publicació dels recursos d'aprenentatge
 
 Segons el PEC de l'IOC, "l’ús de material d’estudi divers garanteix tres funcions: construcció del coneixement, exercitació dels sabers i mobilització dels sabers. Aquest material ha evolucionat des del material en PDF fins al material integrat al format Moodle (llibres Moodle, lliçons) juntament amb altres canals diversificats de presentació de la informació com l’audiovisual"[^pec-material-estudi-0]. Llavors, els materials d'estudi, representen un element estratègic en el procés de l'EA de l'IOC: responen l'exigència dels continguts i objectius curriculars i, en segon lloc, han de formar part de l'EVA de l'IOC.
 
@@ -93,7 +93,7 @@ Finalment, la **curació de recursos** dona protagonisme en com ha de ser el dis
 [^pec-material-estudi-0]: *Projecte educatiu de centre de l'IOC*, (p. 10).
 [^pec-material-estudi-1]: ibíd, (p. 7).
 
-### Eix estratègic de comunicació: el model *bicrònic*
+## Eix estratègic de comunicació: el model *bicrònic*
 
 >L'ús del correu electrònic és fàcil i ràpid, però potser no és el mitjà més eficaç.[^serarols]
 
@@ -117,7 +117,7 @@ Tanmateix, un model comunicació exclusivament *asíncron*, planteja una sèrie 
 
 [^hospitalitat]: Conferència de Byung-Chul Han, *[L'expulsió de la diferència i el valor de l'hospitalitat](https://www.cccb.org/ca/activitats/fitxa/conferencia-de-byung-chul-han/228169)*, 6 de febrer de 2018, CCCB.
 
-[^manresa-bujosa]: Recomanaria especialment les intervencions de Catina Bujosa, professora dels estudis del GES i FP de l'IOC i coordinadora del projecte [miniops](http://miniops.xtec.cat), i Mireia Manresa, professora associada del departament de didàctucade Llengua i Literatura i professora de l'Institut de Ciències de l'Educació (ICE) de la UAB, al projecte [Idees en línea](https://sites.google.com/ioc.cat/ideesenlinia/presentaci%C3%B3).
+[^manresa-bujosa]: Recomanaro les intervencions de Catina Bujosa, professora dels estudis del GES i FP de l'IOC i coordinadora del projecte [miniops](http://miniops.xtec.cat), i Mireia Manresa, professora associada del departament de didàctucade Llengua i Literatura i professora de l'Institut de Ciències de l'Educació (ICE) de la UAB, al projecte [Idees en línea](https://sites.google.com/ioc.cat/ideesenlinia/presentaci%C3%B3).
 
 La recent acceleració tecnològica dels sistemes de comunicació síncrona (en particular aquelles associades a les vídeoconferències o els nous entorns de xat o missatgeria instantània) i la seva popularitat social ha dibuixat un nou escenari que planteja, com a mínim, un questionament de l'exclusivitat del model asíncron dels estudis *a distància*: sigui de manera esporàdica o amb certa regularitat (pensem, per exemple, en l'activitat tutorial o en el seguiment dels estudiants de batixllerat en procés d'elaboració del *Treball de recerca*), arran de l'impacte de la COVID-19, les actuacions de comunicació síncrona concorren amb el disseny asíncron de l'aula dels estudis a distància. Tampoc no es pot minimitzar l'impacte que ha significat l'ús intensiu de les comunicacions síncrones des del punt de vista de l'estudiant (que experimenta continuament a l'àmbit personals o professional), fet del qual es podria deduir una lectura de *manca d'immediatessa, interacció i visualització* del disseny asíncron de les aules. L'aprenentatge en sincronia entre estudiants i professorat en l'aula virtual trenca, per una banda, els límits definits a l'EVA i, d'altra banda, ajuda els estudiants a preguntar i rebre respostes *a temps real*, fet que podria beneficiar-se indirectament la realització d'activitats de comunicació *asíncrona* (debats de participació) i, per tant, minimitzar la sensació d'aillament de l'estudiant a l'aula virtual:
 
@@ -159,7 +159,7 @@ Aquest sistema bicrònic de l'aprenentatge no és sinó una recreació del que p
 
 [^argument-bichronous]: Es podria argumentar en contra d'aquestes actuacions síncrones el greuge comparatiu envers aquells estudiants que, per motius personals o professionals, no tinguessin l'opció d'assistir-hi. Sobre això es podria contrargumentar que totes les sessions síncrones són susceptibles de ser enregistrades amb el permís explícit dels assistents i, d'altra banda, el fet que estiguin programades al calendari de l'aula des de l'inici de curs, l'estudiant podria plantejar, encara que no assistís finalment, tots aquells dubtes o qüestions relacionades amb la temàtica de la sessió síncrona.
 
-### Eix estratègic d'avaluació i seguiment de l'estudiant
+## Eix estratègic d'avaluació i seguiment de l'estudiant
 
 L'avaluació forma part del grup dels principis pedagògics del PEC de l'IOC: s'interpreta com "una eina que potencia l'autoregulació de l'alumne, proporcionant informació sobre el seu procés d'aprenentatge"[^pec-avaluacio-ioc]. La informació que reben els estudiants al llarg del curs, en la forma de correcció o **feedback** (retroacció) del professorat, serà un dels elements clau en l'assoliment dels objectius i competències definides al currículum en el marc d'un disseny asíncron de l'aula virtual; l'*autoregulació* del procés d'aprenentatge de l'estudiant basada en l'acompanyament del professorat a través d'un **feedback** efectiu, precís i constructiu, defineix l'ideari dels estudis *a distància* de l'IOC.
 
@@ -209,13 +209,13 @@ Si bé són qüestions que, personalment, no trobo una resposta tancada, si m'aj
 
 [^ada]: *Anàlisi de Dades Acadèmiques* és un "projecte començat el curs 2016-17 amb l’anàlisi dels resultats obtinguts en els estudis d’FP. Més endavant s’hi han anat incorporant progressivament les dades de la resta d’estudis: GES, EOI i, finalment, batxillerat i PACFGS", PEC, p. 11-12.
 
-## Objectius
+# Objectius
 
-El marc conceptal dels tres eixos estràtegics d'actuació servirà per concretar els següents objectius de treball a l'IOC:
+La descripció de l'anterior marc conceptual en la forma de tres eixos estratègics m'ajudaran a concretar quin són els objectius de treball en el context de la pràctica docent a l'IOC:
 
 #. **Eix de creació i publicació dels recursos i materials d'aprenentatge**:
-   #. Tal com succeeix al projecte [Miniops](https://miniops.ioc.cat), els recursos i materials d'aprenentatge haurien d'estar en obert permanentment a Internet.
-   #. Curació de recursos de qualitat disponibles a Internet de llicències lliures (per exemple, [Creative Commons](https://creativecommons.org/licenses/?lang=ca) ) amb la responsabilitat de traduïr-los o facilitar subtítols i transcripcions en català en el cas de vídeos i altres productes audiovisuals.
+   #. Tal com succeeix al projecte [Miniops](https://miniops.ioc.cat), els recursos i materials d'aprenentatge haurien d'estar en obert i fora del Campus de l'IOC i limitar l'EVA a la realització de la pràctica d'EA amb els estudiants.
+   #. Curació de recursos de qualitat disponibles a Internet amb llicències lliures (per exemple, [Creative Commons](https://creativecommons.org/licenses/?lang=ca) ) i exigència de facilitar subtítols i transcripcions en català com a complement de productes audiovisuals de procedència internacional.
    #. Cercar i anàlitzar exemples i referències a Internet que ajudin a repensar, millorar i actualitzar en el temps els recursos i materials d'aprenentatge de les matèries de la modalitat d'Arts.
    #. Proporcionar un ventall ampli d'**alternatives de formats** dels diferents recursos i materials d'aprenentatge que faciliti l'estudiant tant l'accès (amb independència del dispositiu), una lectura òptima i, finalment, donar resposta en termes d'accessibilitat.
 #. **Eix d'estratègies de comunicació híbrides: l'aprenentatge *bicrònic***:
@@ -240,9 +240,9 @@ El marc conceptal dels tres eixos estràtegics d'actuació servirà per concreta
 
 \newpage
 
-# Exemplificació d'activitat d'aprenentatge: *Tots els barrocs del món*
+# Exemplificació d'activitat d'aprenentatge
 
-Amb la intencionalitat clara de defensar un enfocament que va del general a l'específic, m'agradaria compartir l'exemple d'una activitat d'aprenentatge que reculli la possible concreció dels objectius definits a la proposta del projecte i, per tant, enumerar les actuacions necessàries per fer-la viable en el marc dels estudis de Batxillerat de l'IOC. L'activitat l'anomenaré com a *Tots els barrocs del món* i està  enmarcada en la matèria de comuna d'opció de la modalitat d'arts, **Fonaments de les arts**.
+La següent activitat d'aprenentatge és un exemple vigent i actual d'aplicació d'una part dels objectius definits al plantejament del projecte. Per una banda, il·lustra una metodologia de treball actual a l'aula i, d'altra banda, introdueixo aquelles referències o recomanacions en cursiva que, ara per ara, crec necessàries com a tasques a fer amb el propòsit de millorar l'exercici i procés de l'EA dels estudiants. La seqüència didàctica rep el nom de  **Tots els barrocs del món** i està  enmarcada en la matèria comuna d'opció de la modalitat d'arts, **Fonaments de les arts**.
 
 ## Context curricular de la matèria
 
@@ -262,13 +262,11 @@ No és casual que la formulació de l'estructura i els criteris generals d'avalu
 
 Llavors, a més del repte d'acompanyar els estudiants en l'adquisició de les competències i capacitats de reflexió sobre el fet artístic a través d'una mirada àmplia i polièdrica de l'art del passat i del present, com organitzem la matèria a nivell dels continguts tal com estan presentats al currículum en el context dels estudis *a distància* del Batxillerat de l'IOC (la semestralitat, l'ampli perfil de l'estudiant, però amb molta presència de *visitants*, la familiarització de l'estudiant amb l'entorn del campus de l'IOC, els possibles obstacles d'estudiar davant de la pantalla, l'atenció a la diversitat dels estudiants...)?
 
-La següent proposta d'activitat d'aprenentatge vol exemplificar una possible estratègia a la pregunta anterior i, sobretot, la manera en què poden introduir-se i aplicar els objectius deduits de l'ideari dels tres eixos formulats al projecte amb el propòsit que els estudiants sentin i participin d'una experiència d'EA basada en la cultura d'Internet actual a la d'un disseny d'aula basat únicament en el model d'estudis a *distància*.
-
 [^pau-fonaments-arts]: Informació de la matèria Fonaments de les arts dins de la secció de Proves d'accés PAU i PAP: [https://universitats.gencat.cat/ca/proves-acces-PAU-PAP/preparat-PAU/materies-PAU/fonaments-arts/](https://universitats.gencat.cat/ca/proves-acces-PAU-PAP/preparat-PAU/materies-PAU/fonaments-arts/).
 
-## Descripció de l'activitat *Tots els barrocs del món*
+## Descripció de l'activitat
 
-Explico a continuació un disseny d'activitat on incorporo, conjuntament, aquells objectius definits i enumerats a la descripció de la proposta de projecte.
+Explico a continuació el disseny d'activitat i, simultàniament, els objectius definits i enumerats a la descripció de la proposta de projecte.
 
 ### Contextualització
 
@@ -276,56 +274,45 @@ Una línia de treball amb els estudiants de la modalitat d'arts del Batxillerat,
 
 En l'itinerari cronològic dels continguts del currículum de la matèria de **Fonaments de les arts**, el Barroc històric ocupa, juntament amb el Neoclassicisme, el tram final del primer curs de la matèria. L'organització de la matèria en clau competencial permet un plantejament de més recorregut i, per tant, proposar el Barroc als estudiants no des d'una perspectiva historicista sinó com a idea artística que, com a etapa cultural sobrevinguda principalment al segle XVII, hi projecta una ombra dels seus trets estilístics i formals a moltes de les produccions o creacions actuals.
 
-![Exemple de correspondències estilístiques: a l'esquerra, coberta del videojoc *The Legend of Zelda. Breath of the Wild* (2017); a la dreta, Caspar David Friedrich, *El caminant sobre el mar de boira* (1817).](./img/wanderers_zelda_friedrich.jpg)
-
-### Temporització de l'activitat
-
-Es proposa un temps de dedicació al voltant dels 10-15 dies en temps d'aula virtual on es té en compte:
-
-* La participació en una activitat o tasca de participació en grup (tipus fòrum) com a introducció a la temàtica i pregunta de l'activitat.
-* El temps de consulta dels diferents recursos d'aprenentatge disponibles a l'aula específics de l'activitat.
-* El temps de lectura i anàlisi de la proposta d'activitat. Es podria plantejar la publicació de models modèlics fets per estudiants en una edició anterior d'un curs anterior, tot i que no en sóc partidari, ja que més que una ajuda podria representar una limitació envers la creativitat de l'estudiant.
-* El temps de recerca, elaboració i publicació de l'objecte de l'encàrrec de l'activitat.
+![Exemple de correspondències estilístiques del Barroc històric a l'actualitat: a l'esquerra, grafitti de l'artista suec, Herr Nilson; a la dreta, Caravaggio, *Narcís* (1597-1599).](./img/herr_nilsson.png)
 
 ### Descripció de l'activitat
 
-Per tant, amb la finalitat de treballar la idea de l'art del Barroc des d'una perspectiva transversal a l'aula virtual, es proposa el següent encàrrec:
+Per tant, amb la finalitat de treballar la idea de l'art del Barroc des d'una perspectiva transversal i interdisciplinar, es proposa la següent seqüència didàctica:
 
 ![Fotograma del videoclip *Velaske, yo soi guapa? (Las Meninas Trap Mix)*, obra de Christian Flores (2017)](./img/velaske_yo_soi_guapa.png)
 
-#. Cercar un recurs d'actualitat que mostri clarament influències estilístiques o referències explicites del fet artístic del Barroc històric. Aquest recurs ha de venir acompanyat d'una introducció per tal de contextualitzar-lo. Es plantejaria com a fil de debat de fòrum, alternativament, com a vídeo d'introducció de la temàtica de l'aula. Un exemple de recurs podria ser el video clip de trap [Velaske, yo soi guapa? (Las Meninas Trap Mix), 2017](https://www.youtube.com/watch?v=Il6p2-40-F0), amb més d'onze milions de visites. Si es proposa un debat d'inici, s'interpel·la a l'estudiant a participar-hi a partir de qüestions com:
+#. Presentació d'un recurs d'actualitat que mostri clarament influències estilístiques o referències explicites del fet artístic del Barroc històric. Aquest recurs ha de venir acompanyat d'una introducció per tal de contextualitzar-lo. Es plantejaria com a fil de debat de fòrum, alternativament, com a vídeo d'introducció de la temàtica de l'aula. Un exemple de recurs podria ser el video clip de trap [Velaske, yo soi guapa? (Las Meninas Trap Mix), 2017](https://www.youtube.com/watch?v=Il6p2-40-F0), amb més d'onze milions de visites. Si es proposa un debat d'inici, s'interpel·la a l'estudiant a participar-hi a partir de qüestions com:
    * Heu vist en persona les Meninas de Velázquez? Si és afirmatiu, què recordes del quadre? quins elements del quadre et van cridar més l'atenció?
    * Què creus que podria significar el següent fragment de la lletra del trap: *Pero escuche un secreto: yo la estoy pintando a usted ¿Viste que en el cuadro se está pintando un cuadro? Po' en realidad, señora, yo la 'toy pintando a usted (¿¡cómo!?)*.
    * Si aquest és una de les obres més representatives del Barroc, podries proposar tres elements estílistics que creus que podrien definir la idea artística del Barroc?
 
-   **Objectiu X.X**: S'intenta plantejar la temàtica des d'una perspectiva més àmplia, en sintonia amb l'organització de la matèria, informant l'estudiant del plantejament de l'activitat com a repte: **L'estil artístic del Barroc, és encara vigent avui dia?**
-   **Objectiu X.X**: Es proposa com a ajuda a la realització de tasca inicial una *sessió síncrona* (dos o tres dies deprés del començament de l'activitat) amb la finalitat de fer-ne una introducció més personal de la temàtica de l'activitat a més de la possibilitat de respondre dubtes sobrevinguts. L'enregistrament de la sessió podria incorporar-se com a ajuda a aquells estudiants que no hagi pogut assistir-hi.
+   *S'interpel·la l'estudiant a introduir-se en la temàtica del Barroc des d'una perspectiva més àmplia, en sintonia amb la proposta curricular i competencial de la matèria, en la forma de pregunta inicial: **L'estil artístic del Barroc, és encara vigent avui dia?***
+
+   *Es proposa com a ajuda a la realització del debat inicial una sessió síncrona (poc deprés del començament de l'activitat) amb la finalitat de fer-ne una introducció acadèmica de la temàtica de l'activitat a més de la possibilitat de respondre dubtes sobrevinguts. L'enregistrament de la sessió podria incorporar-se com a ajuda a aquells estudiants que no han pogut assistir-hi.*
 
 #. Lliurar recursos d'aprenentatge significatius que permetin l'estudiant
 contextualitzar el període històric del Barroc i, per tant, establir les pertinents conexions entre les manifestacions artístiques amb els fets socials, polítics i culturals.
 
-    **Objectiu 1.1**: Els recursos, si no poden ser de realització pròpia, cal cercar-ne aquells que, per la seva qualitat i sintonia, encaixin amb el propòsit o finalitat de la realització de l'activitat d'aprenentatge.
-    **Objectiu 1.2**: Si és un recurs de vídeo original en un altre idioma, cal la creació de subtítols en català i transcripció del contingut en múltiples formats. Si és un recurs de lectura, cal proporcionar el cos del contingut en diferents formats que permetin una lectura òptima segons els dispositiu o hàbits d'estudi de l'estudiant.
+    *Els recursos, si no poden ser de realització pròpia, cal cercar-ne aquells que, per la seva qualitat i sintonia, encaixin amb el propòsit o finalitat de la realització de l'activitat d'aprenentatge.*
+
+    *Si és un recurs de vídeo original en un altre idioma, cal la creació de subtítols en català i transcripció del contingut en múltiples formats. Si és un recurs de lectura, cal proporcionar el cos del contingut en diferents formats que permetin una lectura òptima segons els dispositiu o hàbits d'estudi de l'estudiant.*
 
 #. Es proposa l'**enunciat de l'activitat d'aprenentatge** perquè l'estudiant interpreti l'estil del Barroc històric com una manera de comprendre el fet artístic que perdura en l'actualitat partint d'una selecció o mostra de fets artístics actuals (pel·lícules, videojocs, sèries de televisió, videoclips, còmics, publicitat, reportatges gràfics, fotografia artística, pintura, escultura, *performance*, vídeo art, dansa...).
 #. L'objecte de l'activitat és que l'estudiant actui com a **comissari d'una exposició fictícia** i, per tant, se li demana que enrgistrin un presentació oral perquè justifiqui:
    #. Cercar a Internet obres d'art del Barroc històric que consideri que mostren un vincle, paral·lelisme o relació amb les obres actuals.
 
-      **Objectiu X.X**: Potenciar la competència digital de l'estudiant en l'àmbit de recerca i processament d'informació a Internet.
+      *Potenciar la competència digital de l'estudiant en l'àmbit de recerca i processament d'informació a Internet.*
 
    #. Elaborar un text que reculli els conceptes o idees sobre les relacions estilístiques que es produeixen entre les obres.
    #. Proposar preguntes o qüestionin el perquè de les apropiacions formals o estilístiques actuals envers a un moment històric anterior.
    #. Deduir i interpretar el context sociocultural actual a partir de les connexions o correspondències entre les obres del passat i del present: *creus que els creadors actuals consideren que viuen un moment similar al context sociocultural del Barroc històric?*
-
-    **Objectiu X.X**: Activitats plantejades com a reptes: "L'estil artístic del barroc encara hi és present avui dia?"
-    **Objectiu X.X**: Activitats d'actualitat i crear un espai temporal o de moment compartit, per contrarestar la "distància".
-
    #. Dissenyar una presentació de l'exposició en base a un guió que reculli una síntesi de les tres actuacions anteriors (no es suggereix cap eina. En aquest sentit es pot aprofitar la manca d'instrucció com a excusa perquè els estudiants comparteixen experiències relacionades amb l'ús d'eines o serveis per a la creació de presentacions). El cos de la presentació ha d'estructurar-se en:
       #. Concretar del títol de l'exposició que descrigui el contingut de forma clara i precisa.
       #. Un nombre mínim de diapositives que mostrin les relacions (estelístiques o conceptuals) entre les obres actuals proposades a l'enunciat de l'activitat i aquelles obres del Barroc històric escollides per l'estudiant.
    #. Finalment, enregistrar i publicar un vídeo on defensin el plantejament de l'exposició (diàleg entre passat i actualitat) com també una conclusió personal sobre les possibles connexions entre contextos socioculturals separats en el temps.
 
-       **Objectiu X.X**: Activitat plantejada per consolidar competències digitals com la cerca d'informació com l'ús d'eines per a l'elaboració i publicació de la presentació.
+       *L'activitat planteja treballar les competències digitals com ara la cerca d'informació i l'ús d'eines per a l'elaboració i publicació de la presentació.*
 
 ### Avaluació de l'activitat
 

@@ -3,8 +3,8 @@ title: Projecte de desenvolupament de continguts
 subtitle: Especialitat de Dibuix
 author: Xavier Belanche Alonso
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce rhoncus elit in rutrum interdum. Nulla luctus augue lectus, sit amet aliquet sapien efficitur ultricies. Sed sit amet magna eget arcu molestie pretium vitae vestibulum velit. In sed nisl vitae massa ultricies bibendum eget cursus nisi. Sed scelerisque sem diam, eget interdum nisi commodo et. Aenean tristique metus eget mauris laoreet, vitae suscipit eros placerat. Nullam ac arcu quis diam elementum viverra. Mauris iaculis volutpat arcu id blandit. Donec condimentum neque eu felis sollicitudin, vel mattis eros tincidunt."
-date: 21/02/2022
-lang: ca
+date: 20/02/2022
+lang: catalan
 mainfont: Helvetica
 documentclass: extarticle
 fontsize: 11pt
@@ -326,3 +326,4 @@ Finalment, com a addenda, es proposa una **revisió del conjunt de les tasques a
 <!-- \newpage -->
 
 <!-- Aquest document ha estat editat amb el llenguatge de marques [Markdown](https://www.markdownguide.org/) i exportat a \LaTeX\ gràcies a la navalla suïssa de la conversió de formats [Pandoc](https://pandoc.org/), el cos de lletra és d'11pts, la font de lletra és l'Helvetica, l'interlineat és de 1.5, les figures i diagrames han estat definides amb el llenguatge [DOT](https://es.wikipedia.org/wiki/DOT), processades amb el conjunt d'eines de visualització infogràfiques [Graphviz](https://graphviz.org/) i, finalment, incloses en el document amb al filtre *[pandoc-plot](https://github.com/LaurentRDC/pandoc-plot)*. Podeu consultar el codi font i històric del document a: [https://github.com/xbelanch/Projecte-IOC](https://github.com/xbelanch/Projecte-IOC) -->
+``

@@ -173,6 +173,42 @@ $endif$
 \titlespacing{\subsection}{0mm}{10mm}{4mm}
 \titlespacing{\subsubsection}{0mm}{5mm}{3mm}
 
+% Custom colors
+\definecolor{carmine}{rgb}{0.59, 0.0, 0.09}
+\definecolor{capri}{rgb}{0.0, 0.75, 1.0}
+\definecolor{celestialblue}{rgb}{0.29, 0.59, 0.82}
+\definecolor{iocblue}{rgb}{0.0, 0.61, 0.85}
+
+% Custom maketitle
+\makeatletter
+\renewcommand\maketitle{
+\vspace*{-2.5mm}
+\begin{center}
+\textbf{\huge{$title$}}
+\par
+\textcolor{iocblue}{\Large\bfseries{$subtitle$}}
+\par
+\par
+\large{$author$}
+\par
+\normalsize{$date$}
+\par
+\vspace*{2mm}
+\includegraphics[width=4.75cm]{img/IOC_horitzontal.jpg}\\[-1em]
+\end{center}
+\makebox[0pt][l]{\rule{1\textwidth}{0.5pt}}
+\par
+$if(abstract)$
+\begin{abstract}
+$abstract$
+\end{abstract}
+$endif$
+\par
+\noindent\makebox[0pt][l]{\rule{1\textwidth}{0.5pt}}
+\par
+} % Note the extra }
+\makeatother
+
 %--------------------------------
 %--- WHERE EVERYTHING STARTS! ---
 %--------------------------------
@@ -197,14 +233,8 @@ $endif$
 \clearpage\maketitle
 \thispagestyle{empty}
 
-$if(abstract)$
-\begin{abstract}
-$abstract$
-\end{abstract}
-$endif$
-
 \tocloftpagestyle{fancy}
-\vspace*{-20mm}
+\vspace*{-25mm}
 \tableofcontents
 
 \clearpage

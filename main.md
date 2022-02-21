@@ -11,7 +11,7 @@ documentclass: extarticle
 fontsize: 11pt
 linestretch: 1.5
 papersize: a4
-geometry: left=3cm,right=2.5cm,top=2cm,bottom=2.75cm
+geometry: left=3.25cm,right=2.75cm,top=2cm,bottom=2.75cm
 urlcolor: blue
 toc: true
 pandocomatic_:

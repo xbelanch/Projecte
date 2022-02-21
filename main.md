@@ -2,7 +2,7 @@
 title: Projecte de desenvolupament de continguts
 subtitle: Especialitat de Dibuix
 author: Xavier Belanche Alonso
-abstract: "En aquest projecte, es reflexiona sobre punts claus per a actuacions de millora en l'aprenentatge a Internet, a partir del Projecte Educatiu de l'IOC i el seu desplegament, i es fa una proposta didàctica concreta a tall d'exemple per desenvolupar una seqüència didàctica sobre el barroc a l'assignatura del batxillerat, Fonament de les arts. Les actuacions de millora es proposen per a tres eixos: creació i publicació dels recursos i materials d'aprenentatge, estratègies de comunicació híbrides: l'aprenentatge *bicrònic* i estratègies d'avaluació formativa i seguiment de l'aprenentatge."
+abstract: "En aquest projecte, es reflexiona sobre punts clau per a actuacions de millora en l'aprenentatge a Internet, a partir del Projecte Educatiu de l'IOC i el seu desplegament, i es fa una proposta didàctica concreta a tall d'exemple per desenvolupar una seqüència didàctica sobre el barroc a l'assignatura del batxillerat, Fonament de les arts. Les actuacions de millora es proposen per a tres eixos: creació i publicació dels recursos i materials d'aprenentatge, estratègies de comunicació híbrides: l'aprenentatge *bicrònic* i estratègies d'avaluació formativa i seguiment de l'aprenentatge."
 date: 21 de febrer de 2022
 lang: catalan
 mainfont: Helvetica
@@ -287,11 +287,11 @@ Una línia de treball amb els estudiants de la modalitat d'arts del batxillerat,
 
 En l'itinerari cronològic dels continguts del currículum de la matèria de **Fonaments de les arts**, el barroc històric ocupa, juntament amb el neoclassicisme, el tram final del primer curs de la matèria. L'organització de la matèria en clau competencial permet un plantejament de recorregut més ampli i, per tant, proposar l'anàlisi del barroc als estudiants, no des d'una perspectiva historicista, sinó com a idea artística que, com a etapa històrica esdevinguda principalment al segle XVII, projecta una ombra dels seus trets estilístics i formals a moltes de les produccions o creacions actuals.
 
-![Exemple de correspondències estilístiques del Barroc històric a l'actualitat: a l'esquerra, grafitti de l'artista suec, Herr Nilson; a la dreta, Caravaggio, *Narcís* (1597-1599).](./img/herr_nilsson.png)
+![Exemple de correspondències estilístiques del barroc històric a l'actualitat: a l'esquerra, grafitti de l'artista suec, Herr Nilson; a la dreta, Caravaggio, *Narcís* (1597-1599).](./img/herr_nilsson.png)
 
 ### Descripció de l'activitat
 
-Per tant, amb la finalitat de treballar la idea de l'art del Barroc des d'una perspectiva transversal i interdisciplinar, es proposa la seqüència didàctica següent.
+Per tant, amb la finalitat de treballar la idea de l'art del barroc des d'una perspectiva transversal i interdisciplinar, es proposa la seqüència didàctica següent.
 
 <!-- ![Fotograma del videoclip *Velaske, yo soi guapa? (Las Meninas Trap Mix)*, obra de Christian Flores (2017)](./img/velaske_yo_soi_guapa.png) -->
 
@@ -300,7 +300,7 @@ Per tant, amb la finalitat de treballar la idea de l'art del Barroc des d'una pe
    * Què creus que podria significar aquest fragment de la lletra del trap: *Pero escuche un secreto: yo la estoy pintando a usted ¿Viste que en el cuadro se está pintando un cuadro? Po' en realidad, señora, yo la 'toy pintando a usted (¿¡cómo!?)*.
    * Sent aquesta és una de les obres més representatives del barroc, podries proposar tres elements estilístics que creus que podrien definir la idea artística del barroc?
 
-     *S'interpel·la l'estudiant a introduir-se en el barroc des d'una perspectiva més àmplia, en sintonia amb la proposta curricular i competencial de la matèria, en la forma de pregunta inicial: **L'estil del Barroc, és encara vigent avui dia?***
+     *S'interpel·la l'estudiant a introduir-se en el barroc des d'una perspectiva més àmplia, en sintonia amb la proposta curricular i competencial de la matèria, en la forma de pregunta inicial: **L'estil del barroc, és encara vigent avui dia?***
 
      *Es proposa com a ajuda a la realització del debat inicial una sessió síncrona (una mica després del començament de l'activitat) amb la finalitat de fer una introducció acadèmica del tema de l'activitat a més de la possibilitat de respondre dubtes sobrevinguts. L'enregistrament de la sessió podria incorporar-se com a ajuda a aquells estudiants que no han pogut assistir-hi.*
 

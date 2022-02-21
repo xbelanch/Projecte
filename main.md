@@ -230,12 +230,12 @@ La descripció de l'anterior marc conceptual en la forma de tres eixos estratèg
    #. Cerca i anàlisi d'exemples i referències a Internet que ajudin a repensar, millorar i actualitzar en el temps els recursos i materials d'aprenentatge de les matèries de la modalitat d'Arts. Aquesta feina de cerca i anàlisi permetria la **contextualització** bàsica per desenvolupar un aprenentatge competencial.
    #. Posada a disposició d'un ventall ampli d'**alternatives de formats** dels diferents recursos i materials d'aprenentatge que faciliti a l'estudiant tant l'accés (amb independència del dispositiu) com una lectura òptima en termes d'accessibilitat.
 #. **Eix d'estratègies de comunicació híbrides: l'aprenentatge *bicrònic* **
-   #. Planificació d'actuacions estratègiques de comunicació síncrona a l'aula:
+    #. Planificació d'actuacions estratègiques de comunicació síncrona a l'aula:
       * El nombre d'aquestes no hauria de significar un impacte negatiu en el disseny asíncron de l'aula.
       * Cal facilitar alternatives als estudiants que no puguin assistir-hi com, per una banda, proposar exemples, preguntes, dubtes o qüestions que es comentaran obertament a la sessió síncrona i, d'altra banda, la publicació de la sessió síncrona com a **VoD**[^VoD] de l'aula.
-   #. Incorporació d'estratègies d'amplificació de la comunicació asíncrona pròpies de la cultura d'Internet. _Exemple?_
-   #. Ús adequat dels mitjans de comunicació asíncrona de l'aula i, per tant, evitar transformar el correu intern del l'EVA de l'IOC en una missatgeria instantània o els fòrums de debat en xats.
-   #. Valoració de la possible introducció d'altres estratègies de comunicació síncrona que ajudin a evitar la desnaturalització de la comunicació asíncrona de les aules. _Exemple?_
+    #. Incorporació d'estratègies d'amplificació de la comunicació asíncrona pròpies de la cultura d'Internet (per exemple, segons el context de la comunicació --correu intern, fòrums--, l'ús d'*emotes/emojis*, animacions *gifs* o mems personalitzats permetria una experiència d'aprenentatge de l'estudiant *similar* a l'interacció a les aules presencials[^memes-gif]).
+    #. Ús adequat dels mitjans de comunicació asíncrona de l'aula i, per tant, evitar transformar el correu intern del l'EVA de l'IOC en una missatgeria instantània o els fòrums de debat en xats.
+    #. Valoració de la possible introducció d'altres estratègies de comunicació síncrona que ajudin a evitar la desnaturalització de la comunicació asíncrona de les aules (per exemple, l'implementació i ús d'un servei de missatgeria interna basat en la tecnologia *XMPP*[^xmpp] en l'EVA de l'IOC).
 #. **Eix d'estratègies d'avaluació formativa i seguiment de l'aprenentatge**
    #. Disseny d'activitats on el trinomi recerca/reflexió/creació exigeixi a l'alumne un aprenentatge no limitat a la rèplica dels recursos o materials d'aprenentatge.
    #. Proposta d'activitats de diferent tipologia de l'EVA segons les diferents fases de l'avaluació de l'aprenentatge (inicial, formativa, sumativa). Per exemple, l'ús dels fòrums com a activitat preliminar que motivi el conjunt d'estudiants a qüestionar els coneixements previs sobre un determinat tema a partir d'un referent informatiu que actuï com a objecte de debat o controvèrsia.
@@ -246,6 +246,10 @@ La descripció de l'anterior marc conceptual en la forma de tres eixos estratèg
    #. Exploració de les possibilitats d'avaluació formativa d'activitats de grup sense la intervenció o guiatge del professorat (aprenentatge  entre iguals).
    #. Exploració de les possibilitats de la realització d'un projecte final com a indicador del seguiment i aplicació dels estudiants de les retroaccions donades al llarg del seu procés d'aprenentatge.
    #. Elaboració d'un informe *a posteriori* a partir de dades recollides en enquestes i en serveis com l'ADA per avaluar la proposta d'avaluació formativa de l'aula.
+
+[^xmpp]: *Extensible Messaging and Presence Protocol*, article de la Wikipedia dedicat al protocol lliure de missatgeria instantània basat en XML: [https://ca.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol](https://ca.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol).
+
+[^memes-gif]: Mulder, Dave, *Social Presence: Photos, Gifs, and Memes*, (9/9/2020): [http://iteach-and-ilearn.blogspot.com/2020/09/social-presence-photos-gifs-and-memes.html](http://iteach-and-ilearn.blogspot.com/2020/09/social-presence-photos-gifs-and-memes.html).
 
 [^VoD]: El concepte de *Video on Demand* és, a dir, l'arxiu de retransmissions en directe és, des de fa uns anys, una de les estratègies clau en l'afavoriment de projecció dels canals a serveis com [Twitch](https://help.twitch.tv/s/article/video-on-demand?language=en_US) o [Youtube Live](https://support.google.com/youtube/answer/6247592?hl=en).
 
@@ -289,14 +293,14 @@ En l'itinerari cronològic dels continguts del currículum de la matèria de **F
 
 Per tant, amb la finalitat de treballar la idea de l'art del Barroc des d'una perspectiva transversal i interdisciplinar, es proposa la seqüència didàctica següent.
 
-![Fotograma del videoclip *Velaske, yo soi guapa? (Las Meninas Trap Mix)*, obra de Christian Flores (2017)](./img/velaske_yo_soi_guapa.png)
+<!-- ![Fotograma del videoclip *Velaske, yo soi guapa? (Las Meninas Trap Mix)*, obra de Christian Flores (2017)](./img/velaske_yo_soi_guapa.png) -->
 
 #. Presentació d'un recurs d'actualitat que mostri clarament influències estilístiques o referències explícites del fet artístic del barroc històric. Aquest recurs ha de venir acompanyat d'una introducció per tal de contextualitzar-lo. Es plantejaria com a fil de debat de fòrum, alternativament, com a vídeo d'introducció del tema a l'aula. Un exemple de recurs podria ser el videoclip de trap [Velaske, yo soi guapa? (Las Meninas Trap Mix), 2017](https://www.youtube.com/watch?v=Il6p2-40-F0), amb més d'onze milions de visites. Si es proposa un debat d'inici, s'interpel·la l'estudiant a participar-hi a partir de qüestions com:
    * Heu vist en persona les *Meninas* de Velázquez? En cas afirmatiu, què recordes del quadre? Quins elements del quadre et van cridar més l'atenció?
    * Què creus que podria significar aquest fragment de la lletra del trap: *Pero escuche un secreto: yo la estoy pintando a usted ¿Viste que en el cuadro se está pintando un cuadro? Po' en realidad, señora, yo la 'toy pintando a usted (¿¡cómo!?)*.
    * Sent aquesta és una de les obres més representatives del barroc, podries proposar tres elements estilístics que creus que podrien definir la idea artística del barroc?
 
-     *S'interpel·la l'estudiant a introduir-se en el barroc des d'una perspectiva més àmplia, en sintonia amb la proposta curricular i competencial de la matèria, en la forma de pregunta inicial: **L'estil artístic del barroc, és encara vigent avui dia?***
+     *S'interpel·la l'estudiant a introduir-se en el barroc des d'una perspectiva més àmplia, en sintonia amb la proposta curricular i competencial de la matèria, en la forma de pregunta inicial: **L'estil del Barroc, és encara vigent avui dia?***
 
      *Es proposa com a ajuda a la realització del debat inicial una sessió síncrona (una mica després del començament de l'activitat) amb la finalitat de fer una introducció acadèmica del tema de l'activitat a més de la possibilitat de respondre dubtes sobrevinguts. L'enregistrament de la sessió podria incorporar-se com a ajuda a aquells estudiants que no han pogut assistir-hi.*
 

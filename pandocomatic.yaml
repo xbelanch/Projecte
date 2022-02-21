@@ -18,5 +18,5 @@ templates:
       mathjax: true
       toc: false
       listings: true
-      template: template/projecte.tex
+      template: template/main.tex
       filter: ['pandoc-plot']

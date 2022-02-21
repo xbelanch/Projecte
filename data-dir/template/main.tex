@@ -61,11 +61,6 @@ $endif$
 
 % --- Font family
 \usepackage{amsmath,amssymb}
-$if(fontfamily)$
-\usepackage[$for(fontfamilyoptions)$$fontfamilyoptions$$sep$,$endfor$]{$fontfamily$}
-$else$
-\usepackage{lmodern}
-$endif$
 
 % --- Set space between paragraphs
 $if(linestretch)$
@@ -73,19 +68,51 @@ $if(linestretch)$
 $endif$
 
 % --- Mainfont, sansfont and monofont option
+\usepackage[utf8x]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{fontspec}
+\setmainfont[BoldFont={Helvetica75}]{Helvetica}
+
+%--- Overwrite default font sizes
+\renewcommand{\tiny}        {\fontsize {5pt} {4.8pt}\selectfont}
+\renewcommand{\scriptsize}  {\fontsize {7pt} {6.0pt}\selectfont}
+\renewcommand{\footnotesize}{\fontsize {9pt} {8.4pt}\selectfont}
+\renewcommand{\small}       {\fontsize {10pt} {9.6pt}\selectfont}
+\renewcommand{\normalsize}  {\fontsize {11pt}{11pt}\selectfont}
+\renewcommand{\large}       {\fontsize{13pt}{12.0pt}\selectfont}
+\renewcommand{\Large}       {\fontsize{14pt}{13pt}\selectfont}
+\renewcommand{\LARGE}       {\fontsize{16pt}{17pt}\selectfont}
+\renewcommand{\huge}        {\fontsize{20pt}{19pt}\selectfont}
+\renewcommand{\Huge}        {\fontsize{21pt}{22pt}\selectfont}
+\newcommand{\xHuge}        {\fontsize{30pt}{25.74pt}\selectfont}
+\newcommand{\xHUGE}        {\fontsize{33pt}{33.74pt}\selectfont}
+\newcommand{\XHuge}         {\fontsize{38pt}{52pt}\selectfont}
+\newcommand{\XXHuge}         {\fontsize{40pt}{58pt}\selectfont}
+
 $if(lang)$
 \usepackage[$lang$]{babel}
 $endif$
-\usepackage{textcomp} % provide euro and other symbols
-\usepackage{mathspec}
-\defaultfontfeatures{Scale=MatchLowercase}
-\defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 
-$if(mainfont)$
-  \setmainfont[$for(mainfontoptions)$$mainfontoptions$$sep$,$endfor$]{$mainfont$}
-$endif$
+%--------------------------------------------------------------------
+%--- Table of contents ----------------------------------------------
+%--- http://osl.ugr.es/CTAN/macros/latex/contrib/titlesec/titlesec.pdf --------------------------------------------------------
+%--------------------------------------------------------------------
+\usepackage[titles]{tocloft}
+\setlength{\cftaftertoctitleskip}{5mm}% vertical space between header toc and list entries
+\renewcommand{\cfttoctitlefont}{\LARGE\bfseries}
+\renewcommand{\cftdot}{\ensuremath{.}}
+\renewcommand{\cftsecaftersnum}{.}
+\renewcommand\cftsecdotsep{\cftdotsep}
+\renewcommand\cftsecafterpnum{\vskip4pt}
+\renewcommand\cftsubsecafterpnum{\vskip2pt}
+% https://tex.stackexchange.com/questions/153182/strange-behaviour-on-redefining-contentsname
+\AtBeginDocument{\renewcommand{\contentsname}{}}
+\setcounter{tocdepth}{3} % only display chapters and sections
+
+%% \usepackage{mathspec}
+%% \defaultfontfeatures{Scale=MatchLowercase}
+%% \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 
 % Paper geometry
 $if(geometry)$
@@ -134,6 +161,18 @@ $endif$
 \renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}}
 \renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumii}}
 
+
+% Custom title sections
+\usepackage[pagestyles,newparttoc]{titlesec}
+\titleformat{\section}{\normalfont\Large\bfseries}{\thesection.}{0.2em}{}
+\titleformat{\subsection}{\normalfont\large\bfseries}{\thesubsection.}{0.2em}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\bfseries}{\thesubsubsection.}{0.2em}{}
+
+% Custom vertical title sections
+\titlespacing{\section}{0mm}{20mm}{5mm}
+\titlespacing{\subsection}{0mm}{10mm}{4mm}
+\titlespacing{\subsubsection}{0mm}{5mm}{3mm}
+
 %--------------------------------
 %--- WHERE EVERYTHING STARTS! ---
 %--------------------------------
@@ -155,7 +194,7 @@ $if(linestretch)$
 \setstretch{$linestretch$}
 $endif$
 
-\maketitle
+\clearpage\maketitle
 \thispagestyle{empty}
 
 $if(abstract)$
@@ -164,18 +203,9 @@ $abstract$
 \end{abstract}
 $endif$
 
-$if(toc)$
-$if(toc-title)$
-\renewcommand*\contentsname{$toc-title$}
-$endif$
-{
-$if(colorlinks)$
-\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$$endif$}
-$endif$
-\setcounter{tocdepth}{$toc-depth$}
+\tocloftpagestyle{fancy}
+\vspace*{-20mm}
 \tableofcontents
-}
-$endif$
 
 \clearpage
 \pagenumbering{arabic}

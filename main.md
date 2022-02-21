@@ -4,8 +4,9 @@ subtitle: Especialitat de Dibuix
 author: Xavier Belanche Alonso
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce rhoncus elit in rutrum interdum. Nulla luctus augue lectus, sit amet aliquet sapien efficitur ultricies. Sed sit amet magna eget arcu molestie pretium vitae vestibulum velit. In sed nisl vitae massa ultricies bibendum eget cursus nisi. Sed scelerisque sem diam, eget interdum nisi commodo et. Aenean tristique metus eget mauris laoreet, vitae suscipit eros placerat. Nullam ac arcu quis diam elementum viverra. Mauris iaculis volutpat arcu id blandit. Donec condimentum neque eu felis sollicitudin, vel mattis eros tincidunt."
 date: 21/02/2022
-lang: ca
+lang: catalan
 mainfont: Helvetica
+mainfontoptions: BoldFont={Helvetica75}
 documentclass: extarticle
 fontsize: 11pt
 linestretch: 1.5
@@ -57,7 +58,6 @@ En segon lloc, la col·laboració en projectes transversals de centre o específ
 
 [^projecte_materials]: Descarregueu des d'aquest enllaç el document del projecte: [http://rotterlyud.ddns.net/projecte_recursos_aprenentatge_batxillerat.pdf](http://rotterlyud.ddns.net/projecte_recursos_aprenentatge_batxillerat.pdf)
 
-\newpage
 
 # Formulació del projecte
 
@@ -235,9 +235,7 @@ La descripció de l'anterior marc conceptual en la forma de tres eixos estratèg
 
 [^VoD]: El concepte de *Video on Demand* és, a dir, l'arxiu de retransmissions en directe és, des de fa uns anys, una de les estratègies clau en l'afavoriment de projecció dels canals a serveis com [Twitch](https://help.twitch.tv/s/article/video-on-demand?language=en_US) o [Youtube Live](https://support.google.com/youtube/answer/6247592?hl=en).
 
-\newpage
-
-# Exemplificació d'activitat d'aprenentatge
+# Exemplificació d'activitat d'aprenentatge: *Tots els barrocs del món*
 
 La següent activitat d'aprenentatge és un exemple vigent i actual d'aplicació d'una part dels objectius definits al plantejament del projecte. Per una banda, il·lustra una metodologia de treball actual a l'aula i, d'altra banda, introdueixo aquelles referències o recomanacions en cursiva que, ara per ara, crec necessàries com a tasques a fer amb el propòsit de millorar l'exercici i procés de l'EA dels estudiants. La seqüència didàctica rep el nom de  **Tots els barrocs del món** i està  enmarcada en la matèria comuna d'opció de la modalitat d'arts, **Fonaments de les arts**.
 

@@ -1,5 +1,4 @@
 ---
-
 title: Projecte de desenvolupament de continguts
 subtitle: Especialitat de Dibuix
 author: Xavier Belanche Alonso
@@ -58,8 +57,6 @@ En segon lloc, la col·laboració en projectes transversals de centre o específ
 
 [^projecte_materials]: Descarregueu des d'aquest enllaç el document del projecte: [http://rotterlyud.ddns.net/projecte_recursos_aprenentatge_batxillerat.pdf](http://rotterlyud.ddns.net/projecte_recursos_aprenentatge_batxillerat.pdf)
 
-\newpage
-
 # Formulació del projecte
 
 L'actual proposta de projecte comparteix la mateixa motivació i el mateix impuls: mirar d'aportar una resposta a aquelles qüestions o reptes associats a les implicacions d'aprendre a través d'Internet en el context sociocultural actual. La concreció següent de **tres eixos d'actuacions** ajudaran, per una banda, a identificar els diferents i possibles condicionants d'*estudiar davant d'una pantalla*[^Studying-on-a-screen] i, d'altra banda, a perfilar quins són els objectius que haurien de regular l'activitat docent a l'IOC:
@@ -89,6 +86,7 @@ La **curació de recursos** ha de combinar recursos de creació pròpia amb aque
 Finalment, la **curació de recursos** posa en primer pla com ha de ser el disseny seqüencial dels materials d'estudi, en particular en la narrativa del conjunt de la seqüència (el relat o *storytelling*). Crec que aquesta estratègia pot ajudar a temperar moltes de les dificultats que troben els estudiants davant del repte d'estudiar *a distància*.
 
 [^pec-material-estudi-0]: *Projecte educatiu de centre de l'IOC*, (p. 10).
+
 [^pec-material-estudi-1]: ibíd, (p. 7).
 
 ## Eix estratègic de comunicació: el model *bicrònic*
@@ -119,7 +117,7 @@ Tanmateix, un model comunicació exclusivament *asíncron*, planteja una sèrie 
 
 La recent acceleració tecnològica dels sistemes de comunicació síncrona (en particular, aquells associats a les videoconferències o els nous entorns de xat o missatgeria instantània) i la seva popularitat social han dibuixat un nou escenari que planteja, com a mínim, un qüestionament de l'exclusivitat del model asíncron dels estudis *a distància*: sigui de manera esporàdica o amb certa regularitat (pensem, per exemple, en l'activitat tutorial o en el seguiment dels estudiants de batxillerat en procés d'elaboració del *Treball de recerca*). Arran de l'impacte de la COVID-19, les actuacions de comunicació síncrona conflueixen amb el disseny asíncron de l'aula dels estudis a distància. Tampoc no es pot minimitzar l'impacte que ha significat l'ús intensiu de les comunicacions síncrones, que l'estudiant experimenta contínuament a l'àmbit personal o professional, fet del qual es podria deduir una lectura de *manca d'immediatesa, interacció i visualització* del disseny asíncron de les aules. L'aprenentatge en sincronia entre estudiants i professorat a l'aula virtual trenca, per una banda, els límits definits a l'EVA i, d'altra banda, ajuda els estudiants a preguntar i rebre respostes *a temps real*. Així, la comunicació síncrona beneficia indirectament la realització d'activitats de comunicació *asíncrona* (debats de participació) i, per tant, minimitza la sensació d'aïllament de l'estudiant a l'aula virtual:
 
-> Isolation can be overcome by more continued contact, particularly synchronously, and by becoming aware of themselves as members of a community rather than as isolated individuals communicating with the computer.[^isolation]
+>Isolation can be overcome by more continued contact, particularly synchronously, and by becoming aware of themselves as members of a community rather than as isolated individuals communicating with the computer.[^isolation]
 
 [^isolation]: Haythornthwaite, Caroline; Kazmer, Michelle M. , *Bringing the Internet Home: Adult Distance Learners and Their Internet, Home, and Work Worlds*, a *The Internet in Everyday Life*, ed. Barry Wellman and Caroline Haythornthwaite (Malden, MA: Blackwell Publishing, 2002), pp. 431–463 [quote p. 459]. Citat a l'article d'Stefan Hrastinski, [Asynchronous and Synchronous E-Learning](https://er.educause.edu/articles/2008/11/asynchronous-and-synchronous-elearning#fn9), 2008.
 
@@ -175,7 +173,7 @@ Aquest sistema bicrònic de l'aprenentatge no és sinó una recreació del que p
 
 L'avaluació forma part del grup dels principis pedagògics del PEC de l'IOC: s'interpreta com "una eina que potencia l'autoregulació de l'alumne, proporcionant informació sobre el seu procés d'aprenentatge"[^pec-avaluacio-ioc]. La informació que reben els estudiants al llarg del curs, en la forma de correcció o **retroacció** (*feedback*) del professorat, serà un dels elements clau en l'assoliment dels objectius i competències definides al currículum en el marc d'un disseny asíncron de l'aula virtual. L'*autoregulació* del procés d'aprenentatge de l'estudiant basada en l'acompanyament del professorat a través d'una **retroacció** efectiva, precisa i constructiva, defineix l'ideari dels estudis *a distància* de l'IOC.
 
-Si la ** retroacció** serveix tant a l'alumne per saber què ha fet bé i de quina manera pot millorar com al professorat per conèixer el grau d'èxit del disseny de les activitats plantejades, cal tenir-ne present aquelles estratègies que ens permetin trobar un equilibri a l'hora de donar una resposta de qualitat i "les possibilitats de fer-ho de manera àgil"[^carme-duran], ja que, a vegades, es presenten escenaris poc favorables com, per exemple, un nombre elevat d'estudiants a l'aula, el perfil heterogeni d'estudiants o la conciliació entre el grau d'exigència de la tasca correctora dels col·laboradors i la seva remuneració. Per tal de conjurar aquests escenaris poc favorables, cal considerar:
+Si la **retroacció** serveix tant a l'alumne per saber què ha fet bé i de quina manera pot millorar com al professorat per conèixer el grau d'èxit del disseny de les activitats plantejades, cal tenir-ne present aquelles estratègies que ens permetin trobar un equilibri a l'hora de donar una resposta de qualitat i "les possibilitats de fer-ho de manera àgil"[^carme-duran], ja que, a vegades, es presenten escenaris poc favorables com, per exemple, un nombre elevat d'estudiants a l'aula, el perfil heterogeni d'estudiants o la conciliació entre el grau d'exigència de la tasca correctora dels col·laboradors i la seva remuneració. Per tal de conjurar aquests escenaris poc favorables, cal considerar:
 
 * la **planificació** dels criteris d'avaluació relacionats amb els objectius d'aprenentatge i les competències a desenvolupar tant al nivell de seqüència com en el de cadascuna de les activitats amb explicitació dels indicadors corresponents,
 * les diferents **tipologies de retroacció** segons l'activitat: des de les correccions automàtiques o basades en escales (qüestionaris o fòrums) a manuals (tasques o preguntes obertes) passant per les rúbriques o guies d'avaluació. Les retroaccions manuals acostumen a ser **individuals**, però també és profitós encabir-hi les **sessions d'avaluació en grup** en un format asíncron (enregistrament d'un vídeo valorant els diferents treballs lliurats) o com a proposta d'una sessió síncrona;
@@ -250,9 +248,7 @@ La descripció de l'anterior marc conceptual en la forma de tres eixos estratèg
 
 [^VoD]: El concepte de *Video on Demand* és, a dir, l'arxiu de retransmissions en directe és, des de fa uns anys, una de les estratègies clau en l'afavoriment de projecció dels canals a serveis com [Twitch](https://help.twitch.tv/s/article/video-on-demand?language=en_US) o [Youtube Live](https://support.google.com/youtube/answer/6247592?hl=en).
 
-\newpage
-
-# Exemplificació d'activitat d'aprenentatge
+# Exemplificació d'activitat d'aprenentatge: *Tots els barrocs del món*
 
 La activitat d'aprenentatge següent és un exemple vigent i actual d'aplicació d'una part dels objectius definits al plantejament del projecte. Per una banda, il·lustra el meu mètode de treball actual a l'aula i, d'altra banda, hi introdueixo aquelles referències o recomanacions en cursiva que, ara per ara, crec necessàries com a tasques a fer amb el propòsit de millorar l'exercici i procés d'EA dels estudiants. La seqüència didàctica rep el nom de  **Tots els barrocs del món** i està  emmarcada en la matèria comuna d'opció de la modalitat d'arts, **Fonaments de les arts**.
 
@@ -295,39 +291,35 @@ Per tant, amb la finalitat de treballar la idea de l'art del Barroc des d'una pe
 ![Fotograma del videoclip *Velaske, yo soi guapa? (Las Meninas Trap Mix)*, obra de Christian Flores (2017)](./img/velaske_yo_soi_guapa.png)
 
 #. Presentació d'un recurs d'actualitat que mostri clarament influències estilístiques o referències explícites del fet artístic del barroc històric. Aquest recurs ha de venir acompanyat d'una introducció per tal de contextualitzar-lo. Es plantejaria com a fil de debat de fòrum, alternativament, com a vídeo d'introducció del tema a l'aula. Un exemple de recurs podria ser el videoclip de trap [Velaske, yo soi guapa? (Las Meninas Trap Mix), 2017](https://www.youtube.com/watch?v=Il6p2-40-F0), amb més d'onze milions de visites. Si es proposa un debat d'inici, s'interpel·la l'estudiant a participar-hi a partir de qüestions com:
+   * Heu vist en persona les *Meninas* de Velázquez? En cas afirmatiu, què recordes del quadre? Quins elements del quadre et van cridar més l'atenció?
+   * Què creus que podria significar aquest fragment de la lletra del trap: *Pero escuche un secreto: yo la estoy pintando a usted ¿Viste que en el cuadro se está pintando un cuadro? Po' en realidad, señora, yo la 'toy pintando a usted (¿¡cómo!?)*.
+   * Sent aquesta és una de les obres més representatives del barroc, podries proposar tres elements estilístics que creus que podrien definir la idea artística del barroc?
 
-* Heu vist en persona les *Meninas* de Velázquez? En cas afirmatiu, què recordes del quadre? Quins elements del quadre et van cridar més l'atenció?
+     *S'interpel·la l'estudiant a introduir-se en el barroc des d'una perspectiva més àmplia, en sintonia amb la proposta curricular i competencial de la matèria, en la forma de pregunta inicial: **L'estil artístic del barroc, és encara vigent avui dia?***
 
-* Què creus que podria significar aquest fragment de la lletra del trap: *Pero escuche un secreto: yo la estoy pintando a usted ¿Viste que en el cuadro se está pintando un cuadro? Po' en realidad, señora, yo la 'toy pintando a usted (¿¡cómo!?)*.
+     *Es proposa com a ajuda a la realització del debat inicial una sessió síncrona (una mica després del començament de l'activitat) amb la finalitat de fer una introducció acadèmica del tema de l'activitat a més de la possibilitat de respondre dubtes sobrevinguts. L'enregistrament de la sessió podria incorporar-se com a ajuda a aquells estudiants que no han pogut assistir-hi.*
 
-* Sent aquesta és una de les obres més representatives del barroc, podries proposar tres elements estilístics que creus que podrien definir la idea artística del barroc?
-  
-  * S'interpel·la l'estudiant a introduir-se en el barroc des d'una perspectiva més àmplia, en sintonia amb la proposta curricular i competencial de la matèria, en la forma de pregunta inicial: **L'estil artístic del barroc, és encara vigent avui dia?** *
-  
-  * Es proposa com a ajuda a la realització del debat inicial una sessió síncrona (una mica després del començament de l'activitat) amb la finalitat de fer una introducció acadèmica del tema de l'activitat a més de la possibilitat de respondre dubtes sobrevinguts. L'enregistrament de la sessió podria incorporar-se com a ajuda a aquells estudiants que no han pogut assistir-hi.*
+#. Lliurar recursos d'aprenentatge significatius que permetin l'estudiant contextualitzar el període històric del barroc i, per tant, establir les pertinents connexions entre les manifestacions artístiques amb fets socials, polítics i culturals.
 
-#. Lliurar recursos d'aprenentatge significatius que permetin l'estudiant
-contextualitzar el període històric del barroc i, per tant, establir les pertinents connexions entre les manifestacions artístiques amb fets socials, polítics i culturals.
+   *Si no poden ser de realització pròpia, cal cercar aquells recursos que, per la seva qualitat i sintonia, encaixin amb el propòsit o finalitat de la realització de l'activitat d'aprenentatge.*
 
-   * Si no poden ser de realització pròpia, cal cercar aquells recursos que, per la seva qualitat i sintonia, encaixin amb el propòsit o finalitat de la realització de l'activitat d'aprenentatge.*
-    
-   * Si és un recurs de vídeo original en un altre idioma, cal la creació de subtítols en català i transcripció del contingut en múltiples formats. Si és un recurs de lectura, cal proporcionar el cos del contingut en diferents formats que en facilitin una lectura òptima segons el dispositiu o hàbits d'estudi de l'estudiant.*
+   *Si és un recurs de vídeo original en un altre idioma, cal la creació de subtítols en català i transcripció del contingut en múltiples formats. Si és un recurs de lectura, cal proporcionar el cos del contingut en diferents formats que en facilitin una lectura òptima segons el dispositiu o hàbits d'estudi de l'estudiant.*
 
 #. Es proposa l'**enunciat de l'activitat d'aprenentatge** perquè l'estudiant interpreti l'estil del barroc històric com una manera de comprendre el fet artístic que perdura en l'actualitat partint d'una selecció o mostra de fets artístics actuals (pel·lícules, videojocs, sèries de televisió, videoclips, còmics, publicitat, reportatges gràfics, fotografia artística, pintura, escultura, *performance*, vídeo art, dansa...).
 #. L'objectiu de l'activitat és elaborar un projecte on l'estudiant actuï com a **comissari d'una exposició fictícia** i, per tant, se li demana que enregistri una presentació oral que inclogui els elements següents:
    #. Cerca a Internet obres d'art del barroc històric que consideri que mostren un vincle, paral·lelisme o relació amb obres actuals.
-   
-   * Potenciar la competència digital de l'estudiant en l'àmbit de recerca i processament d'informació a Internet.*
+
+      *Potenciar la competència digital de l'estudiant en l'àmbit de recerca i processament d'informació a Internet.*
 
    #. Elaboració d'un text que reculli les idees i les evidències sobre les relacions estilístiques que es produeixen entre les obres.
    #. Proposició de preguntes que qüestionin el perquè de les apropiacions formals o estilístiques actuals a partir de productes estètics d'un moment històric anterior.
-   #. Deduir i interpretar el context sociocultural actual a partir de les connexions o correspondències entre les obres del passat i del present: *Creus que els creadors actuals consideren que viuen un moment similar al context sociocultural del barroc històric? Aporta exemples de tres similituds.* 
+   #. Deduir i interpretar el context sociocultural actual a partir de les connexions o correspondències entre les obres del passat i del present: *Creus que els creadors actuals consideren que viuen un moment similar al context sociocultural del barroc històric? Aporta exemples de tres similituds.*
    #. Disseny d'una presentació de l'exposició a partir d'un guió que reculli una síntesi de les tres actuacions anteriors (no es suggereix cap eina). En aquest sentit, es pot aprofitar la manca d'instrucció com a excusa perquè els estudiants comparteixin experiències relacionades amb l'ús d'eines o serveis per a la creació de presentacions. El cos de la presentació ha d'estructurar-se en:
       #. Concreció del títol de l'exposició que enunciï el contingut de forma clara i precisa.
       #. Establiment d'un nombre mínim de diapositives que mostrin les relacions (estilístiques o conceptuals) entre les obres actuals proposades a l'enunciat de l'activitat i aquelles obres del barroc històric escollides per l'estudiant.
    #. Finalment, enregistrament i publicació d'un vídeo on defensin el plantejament de l'exposició (diàleg entre passat i actualitat) i, també, una conclusió personal sobre les possibles connexions entre contextos socioculturals separats en el temps.
 
-   * L'activitat planteja treballar les competències digitals com ara la cerca d'informació i l'ús d'eines per a l'elaboració i publicació de la presentació.*
+      *L'activitat planteja treballar les competències digitals com ara la cerca d'informació i l'ús d'eines per a l'elaboració i publicació de la presentació.*
 
 ### Avaluació de l'activitat
 
@@ -340,9 +332,3 @@ S'identifiquen tres actuacions avaluadores de l'activitat:
 Per tal de facilitar l'apropiació dels criteris i ponderacions de l'avaluació de la tasca, s'inclou, per una banda, una **pauta de comprovació** en el conjunt de l'enunciat de l'activitat amb la finalitat que permeti l'estudiant verificar que ha seguit correctament les indicacions, instruccions i orientacions recollides a l'enunciat abans de publicar el seu treball. D'altra banda, s'inclouen els **criteris d'avaluació** de l'activitat en forma de rúbrica amb el desglossament d'indicadors ajustats al cas o mitjançant una *guia d'avaluació* perquè l'estudiant sàpiga com se li avaluarà i qualificarà la feina. Tant la pauta de comprovació com la guia d'avaluació han de servir igualment de referència al professorat responsable o col·laborador per a la tasca d'elaboració de la **retroacció** individual i avaluació de la feina de l'estudiant.
 
 Finalment, com a addenda, es proposa una **revisió del conjunt de les tasques avaluades** perquè afavoreixi tant la reflexió com el sentit crític de l'estudiant. Aquesta revisió podria ser sincrònica i en grup, fet que contribuiria a l'intercanvi d'impressions, valoracions personals, formulació de preguntes envers el conjunt de l'activitat i, en especial, el sentit i propòsit últim d'aquesta en el procés de l'aprenentatge local (el perquè de l'actualitat i vigència del barroc) i global (l'anàlisi i comprensió transversal del fet artístic) de la matèria de **Fonaments de les arts**.
-
-<!-- \newpage -->
-
-<!-- Aquest document ha estat editat amb el llenguatge de marques [Markdown](https://www.markdownguide.org/) i exportat a \LaTeX\ gràcies a la navalla suïssa de la conversió de formats [Pandoc](https://pandoc.org/), el cos de lletra és d'11pts, la font de lletra és l'Helvetica, l'interlineat és de 1.5, les figures i diagrames han estat definides amb el llenguatge [DOT](https://es.wikipedia.org/wiki/DOT), processades amb el conjunt d'eines de visualització infogràfiques [Graphviz](https://graphviz.org/) i, finalment, incloses en el document amb al filtre *[pandoc-plot](https://github.com/LaurentRDC/pandoc-plot)*. Podeu consultar el codi font i històric del document a: [https://github.com/xbelanch/Projecte-IOC](https://github.com/xbelanch/Projecte-IOC) -->
-
-``

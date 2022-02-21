@@ -126,7 +126,7 @@ En certa manera, el dèficit de comunicació síncrona als entorns d'aprenentatg
 
 * *email overload*[^email_overload_already] o, el que és el mateix, la missatgeria de correu plena de missatges que semblen més aviat part d'una conversa de missatgeria instantània;
 * allargament en el temps i en quantitat (*overload again*) de la solució de problemes per correu (manca de comprensió lectora,...).
-* o, en el seu defecte, resolucions d'incidències que requereixen un temps de resposta curta o gairebé immediata.
+<!-- * o, en el seu defecte, resolucions d'incidències que requereixen un temps de resposta curta o gairebé immediata. -->
 
 [^email_overload_already]: [Email overload already](https://www.reddit.com/r/Professors/comments/ikk85e/email_overload_already/), entrada de subreddit r/Professors del 2021.
 
@@ -180,7 +180,7 @@ Si la **retroacció** serveix tant a l'alumne per saber què ha fet bé i de qui
 * les diferents **tipologies de retroacció** segons l'activitat: des de les correccions automàtiques o basades en escales (qüestionaris o fòrums) a manuals (tasques o preguntes obertes) passant per les rúbriques o guies d'avaluació. Les retroaccions manuals acostumen a ser **individuals**, però també és profitós encabir-hi les **sessions d'avaluació en grup** en un format asíncron (enregistrament d'un vídeo valorant els diferents treballs lliurats) o com a proposta d'una sessió síncrona;
 * ús de diferents **formats** de la retroacció manual. La retroacció no s'ha de limitar únicament a la redacció d'un text, pot ser un vídeo (en el context de la modalitat d'arts, matèries com Dibuix artístic o tècnic, la correcció dels treballs dels estudiants a través de vídeos resulta més que imprescindible), un àudio;
 * la **intervenció de diversos agents** per incloure diferents tipus d'avaluació (autoavaluació, heteroavaluació, coavaluació) i que aquesta esdevingui significativa i competencial;
-* la **inclusió d'activitats per compartir dubtes** relacionats amb la realització de les activitats o la comprensió dels recursos pot resultar una evidència a avaluar durant el procés d'aprenentatge. Aquest tipus d'activitats exigeix una resposta ràpida i contextualitzada que ajudi l'estudiant a avançar i, alhora, se'n pot treure un rèdit didàctic per proporcionar indicacions en clau de recordatori o d'ampliació d'interès general.
+* la **inclusió d'activitats per compartir dubtes** relacionats amb la realització de les activitats o la comprensió dels recursos pot resultar una evidència a avaluar durant el procés d'aprenentatge. Aquest tipus d'activitats exigeix una resposta ràpida i contextualitzada que ajudi l'estudiant a avançar i, alhora, se'n pot treure un rèdit didàctic per proporcionar indicacions en clau d'ampliació d'interès general.
 
 Així mateix, la publicació de l'esborrany de la futura ordenació dels ensenyaments de batxillerat[^batxillerat-nova-ordenacio] se centrarà en l'enfocament competencial de l'aprenentatge i definirà, no només la "construcció d'uns itineraris flexibles"[^nou-curriculum-batxillerat-0]  de cadascuna de les matèries, sinó també la manera d'avaluar i, en conseqüència, la **redefinició del disseny de les activitats** a l'aula. Una avaluació per competències passa, per tant, per un enfocament d'activitats amb estratègies d'adquisició de coneixement transversal que ajudin l'alumne a ser plenament autònom davant dels reptes de "problemàtiques derivades de l'àmbit acadèmic, dels mitjans de comunicació o de la vida quotidiana"[^nou-curriculum-batxillerat-1].
 
